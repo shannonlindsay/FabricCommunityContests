@@ -1,10 +1,10 @@
 # 📊 Power BI 10th Birthday DataViz Contest: Tech Adoption Dataset
 
 This repository contains the dataset and Power BI starter file for the **PBI10 Dataviz Contest**, created to celebrate Power BI’s 10th birthday! 🥳  
+
 Participants can explore and visualize how technology adoption has changed globally over the past decade using standardized, per-100-person metrics.
 
-🔗 **Contest announcement & instructions:**  
-👉 [PBI10 Dataviz Contest](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Coming-soon-PBI10-Dataviz-Contest/ba-p/4738013)
+🔗 **Contest announcement & instructions:**  👉 [PBI10 Dataviz Contest](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Coming-soon-PBI10-Dataviz-Contest/ba-p/4738013)
 
 ---
 
@@ -46,13 +46,7 @@ To keep this repository clean and aligned with data licensing terms, **no data f
 1. Open the `PBI10 Starter` file in Power BI Desktop.
 2. Go to **Home > Transform Data > Edit Parameters**
 3. Paste the full path to the folder where you saved the CSV files.  
-   👉 Example:  
-C:\Users\YourName\Downloads\PBI10Data\
-
-yaml
-Copy
-Edit
-
+   👉 Example: C:\Users\YourName\Downloads\PBI10Data
 4. Click **OK**, then **Close & Apply** to load the data.
 
 ---
@@ -63,8 +57,7 @@ Edit
 |------------|--------------------------------------------------|
 | `Countries`| Country name, ISO codes, region, income group, flag URL |
 | `Years`    | Calendar years for analysis                     |
-| `Data`     | Per-100-person metrics by country and year:
-           `LandlineUsersPer100`, `MobileUsersPer100`, `InternetUsersPer100`
+| `Data`     | Per-100-person metrics by country and year: `LandlineUsersPer100`, `MobileUsersPer100`, `InternetUsersPer100` |
 
 All values are standardized and ready for comparison across time and geography.
 
