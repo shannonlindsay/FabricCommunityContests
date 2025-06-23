@@ -10,69 +10,93 @@ Participants can explore and visualize how technology adoption has changed globa
 
 ## 📁 What's Included
 
-- `PBI10_TechAdoption.pbix` — Power BI file with clean data model and visuals
-- `data/` — Folder with all source data
-  - `mobile-cellular-subscriptions-per-100-people.csv`
-  - `fixed-telephone-subscriptions-per-100-people.csv`
-  - `share-of-individuals-using-the-internet.csv`
-  - `population.csv`
-  - `country-code-mapping.csv` (ISO3 to ISO2 for flag images)
+- `PBI10 Starter File.pbix` — Power BI file with clean data model and visuals
+- `README.md` — This documentation
+- No data files are included in this repository — see below for download instructions
 
 ---
 
-## 🧠 Data Model
+## 🔽 How to Download the Data
 
-The Power BI file uses 3 key tables:
+To keep this repository clean and aligned with data licensing terms, **no data files are stored here**. Instead, follow the links below to download the source CSVs directly from trusted public data providers:
 
-| Table      | Description                                      |
-|------------|--------------------------------------------------|
-| `Countries`| Country metadata (name, ISO codes, region, income group) |
-| `Years`    | Calendar years used to explore trends over time |
-| `Data`     | Contains per-100-person values for each metric:  
-             `LandlineUsersPer100`, `MobileUsersPer100`, `InternetUsersPer100`
+### 📊 Required Datasets (CSV format)
+
+1. **Mobile Cellular Subscriptions**  
+   https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people
+
+2. **Fixed Telephone (Landline) Subscriptions**  
+   https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people
+
+3. **Internet Users (% of Population)**  
+   https://ourworldindata.org/grapher/share-of-individuals-using-the-internet
+
+4. **Population by Country and Year**  
+   https://ourworldindata.org/grapher/population
+
+5. **Country Code Mapping (ISO3 → ISO2)**  
+   https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv
+
+📁 Once downloaded, place all CSVs in the same local folder. Then follow the steps below to connect them to the Power BI file.
 
 ---
 
 ## ⚙️ How to Use the File
 
-1. Open the `PBI10_TechAdoption.pbix` file in Power BI Desktop.
-2. If prompted to update the folder path:
-   - Go to **Home > Transform Data > Edit Parameters**
-   - Enter the full path to your local `data/` folder.
-   - Click **OK**, then **Close & Apply**
-3. Explore the data with the provided visuals or build your own!
+1. Open the `PBI10 Starter` file in Power BI Desktop.
+2. Go to **Home > Transform Data > Edit Parameters**
+3. Paste the full path to the folder where you saved the CSV files.  
+   👉 Example:  
+C:\Users\YourName\Downloads\PBI10Data\
+
+yaml
+Copy
+Edit
+
+4. Click **OK**, then **Close & Apply** to load the data.
 
 ---
 
-## 🌍 Data Sources & Citation
+## 🧠 Data Model Overview
 
-All data is sourced from **Our World in Data** and processed using open-source datasets originally published by the **International Telecommunication Union (ITU)** and the **World Bank**.
+| Table      | Description                                      |
+|------------|--------------------------------------------------|
+| `Countries`| Country name, ISO codes, region, income group, flag URL |
+| `Years`    | Calendar years for analysis                     |
+| `Data`     | Per-100-person metrics by country and year:
+           `LandlineUsersPer100`, `MobileUsersPer100`, `InternetUsersPer100`
 
-### 📚 Full Citation
+All values are standardized and ready for comparison across time and geography.
 
-> International Telecommunication Union (ITU) via World Bank, UN World Population Prospects, and Gapminder — processed by Our World in Data.  
-> Mobile cellular subscriptions (per 100 people); Fixed telephone subscriptions (per 100 people); Share of individuals using the internet; and Population by country and year.  
+---
+
+## 📚 Citation
+
+> International Telecommunication Union (ITU) via World Bank, UN World Population Prospects, Gapminder — processed by Our World in Data.  
+> *Mobile cellular subscriptions (per 100 people); Fixed telephone subscriptions (per 100 people); Share of individuals using the internet; and Population by country and year.*  
 > Retrieved from Our World in Data:  
 > - https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people  
 > - https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people  
 > - https://ourworldindata.org/grapher/share-of-individuals-using-the-internet  
 > - https://ourworldindata.org/grapher/population
 
-All charts and data from Our World in Data are made available under the **Creative Commons BY license**. Please cite appropriately when using or sharing.
+**Country code mapping dataset**:  
+> GitHub user [@lukes](https://github.com/lukes) — [ISO 3166 Countries with Regional Codes (CSV)](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
 
-Learn more about data reuse: https://ourworldindata.org/about#how-do-i-cite-your-work
+Our World in Data content is available under the [Creative Commons BY license](https://ourworldindata.org/about#how-do-i-cite-your-work). Always provide attribution and cite third-party data providers as well.
 
 ---
 
-## 🖼️ Attribution Note
+## 🖼️ Flags
 
-Flag image URLs are constructed using ISO2 country codes from [flagcdn.com](https://flagcdn.com), a free and open CDN of SVG/PNG flags.
+Flag image URLs are generated using 2-letter ISO codes and the free CDN at [flagcdn.com](https://flagcdn.com).  
+Data model includes a column for these URLs in the `Countries` table — simply set the **Data Category** to `Image URL` in Power BI to display flags.
 
 ---
 
 ## 🧑‍💻 License
 
-This repository is provided for educational and contest purposes under the MIT License. All third-party data remains under its original license.
+This repository is provided under the MIT License. All third-party data remains under its original license or usage terms.
 
 ---
 
