@@ -18,6 +18,8 @@ Participants can explore and visualize how technology adoption has changed globa
 
 ## 🔽 How to Download the Data
 
+Note: you do not have to download the data if you do not plan to make any changes to the starter semantic model. You will want to download the files if you're planning to amend or add to the data in the starter file.
+
 To keep this repository clean and aligned with data licensing terms, **no data files are stored here**. Instead, follow the links below to download the source CSVs directly from trusted public data providers:
 
 ### 📊 Required Datasets (CSV format)
