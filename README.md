@@ -31,7 +31,7 @@ To keep this repository clean and aligned with data licensing terms, **no data f
    https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people
 
 3. **Internet Users**  
-   https://ourworldindata.org/grapher/share-of-individuals-using-the-internet
+   https://ourworldindata.org/grapher/number-of-internet-users
 
 4. **Population by Country and Year**  
    https://ourworldindata.org/grapher/population
@@ -74,7 +74,7 @@ All values are standardized and ready for comparison across time and geography.
 > Retrieved from Our World in Data:  
 > - https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people  
 > - https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people  
-> - https://ourworldindata.org/grapher/number-of-individuals-using-the-internet  
+> - https://ourworldindata.org/grapher/number-of-internet-users 
 > - https://ourworldindata.org/grapher/population
 
 **Country code mapping dataset**:  
