@@ -30,7 +30,7 @@ To keep this repository clean and aligned with data licensing terms, **no data f
 2. **Fixed Telephone (Landline) Subscriptions**  
    https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people
 
-3. **Internet Users (% of Population)**  
+3. **Internet Users**  
    https://ourworldindata.org/grapher/share-of-individuals-using-the-internet
 
 4. **Population by Country and Year**  
@@ -38,6 +38,8 @@ To keep this repository clean and aligned with data licensing terms, **no data f
 
 5. **Country Code Mapping (ISO3 → ISO2)**  
    https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv
+
+Note - there was a query in the starter file referencing "Technology Adoption by Households." As of June 24, this query no longer appears in the starter file.
 
 📁 Once downloaded, place all CSVs in the same local folder. Then follow the steps below to connect them to the Power BI file.
 
@@ -72,7 +74,7 @@ All values are standardized and ready for comparison across time and geography.
 > Retrieved from Our World in Data:  
 > - https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people  
 > - https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people  
-> - https://ourworldindata.org/grapher/share-of-individuals-using-the-internet  
+> - https://ourworldindata.org/grapher/number-of-individuals-using-the-internet  
 > - https://ourworldindata.org/grapher/population
 
 **Country code mapping dataset**:  
