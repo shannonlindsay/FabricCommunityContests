@@ -59,11 +59,13 @@ Note - there was a query in the starter file referencing "Technology Adoption by
 
 | Table      | Description                                      |
 |------------|--------------------------------------------------|
-| `Countries`| Country name, ISO codes, region, income group, flag URL |
+| `Countries`| Country name, ISO codes, region, flag URL |
 | `Years`    | Calendar years for analysis                     |
 | `Data`     | Per-100-person metrics by country and year: `LandlineUsersPer100`, `MobileUsersPer100`, `InternetUsersPer100` |
 
 All values are standardized and ready for comparison across time and geography.
+
+Note, if you're loading the data into Power Query yourself, you'll need to be sure to load the population data, as we standardize the internet data within Power Query using a custom column in the Internet Users query. 
 
 ---
 
@@ -87,6 +89,7 @@ Our World in Data content is available under the [Creative Commons BY license](h
 ## 🖼️ Flags
 
 Flag image URLs are generated using 2-letter ISO codes and the free CDN at [flagcdn.com](https://flagcdn.com).  
+
 Data model includes a column for these URLs in the `Countries` table — simply set the **Data Category** to `Image URL` in Power BI to display flags.
 
 ---
