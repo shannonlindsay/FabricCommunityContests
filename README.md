@@ -102,6 +102,23 @@ All fact tables link to the Countries and Years dimensions using one-to-many rel
 
 ---
 
+## Who is consuming your report?
+
+The way we design a report should always be shaped by its audience. A report built for **public sector leaders across Europe** focused on **improving quality of life** would look very different from one aimed at **members of the general public** exploring the **best places to live**. Understanding who will consume the report, and what they need from it, is essential to making the right design choices.
+
+The intended audience for your report is data journalists, editors, and content producers who work for digital and print media outlets. These individuals specialize in using data to uncover insights, craft compelling narratives, and inform the public. They are not developers or analysts, but they are highly data-literate and skilled at identifying trends, anomalies, and correlations that can become the foundation of impactful journalism.
+
+They are looking for:
+
+- Interesting patterns, contrasts, or outliers across countries, time periods, or categories
+- Visuals that can support or inspire headlines, articles, or interactive content
+- Clarity and transparency in how the data is structured and sourced
+- Freedom to explore and interact with the data, while also being guided to key insights
+
+Your report is not the final article. It’s the tool that helps journalists write one. Make it **explorable, credible, and visually compelling** so it becomes a trusted source for media teams telling the stories behind the data.
+
+---
+
 ## 🧑‍💻 License
 
 This repository is provided under the MIT License. All third-party data remains under its original license or usage terms.
