@@ -20,15 +20,15 @@ The Power BI starter file helps you explore quality of life, culture, and sustai
 
 ## 🔽 How to Download the Starter File
 
-If you're not familiar with GitHub, here’s how to download the Power BI file:
+Download the Power BI file from this [link](https://github.com/shannonlindsay/FabricCommunityContests/raw/refs/heads/main/StarterFiles/World%20Champs%20EU%20Starter%20File.pbix).
 
-Navigate to the folder:
+Alternatively, you can navigate to the folder:
 
 1. FabricCommunityContest/StarterFiles
 
 1. Click on the .pbix file.
 
-1. Click the Download button (or right-click and choose Save link as...).
+1. Click the Download button using the "..." menu in the top right corner.
 
 You don’t need to clone the repository — just download the file directly.
 
