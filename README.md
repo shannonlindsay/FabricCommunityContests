@@ -42,23 +42,23 @@ To keep this repository clean and aligned with data licensing terms, **no data f
 
 ### 📊 Source Data
 
-1. **Renewable energy share (% of gross final energy consumption)**
-   [Eurostat](https://db.nomics.world/Eurostat/nrg_ind_ren)
+1. **Renewable energy share (% of gross final energy consumption)** <br>
+      [Eurostat](https://db.nomics.world/Eurostat/nrg_ind_ren)
 
-1. **Life satisfaction data: Overall life satisfaction by sex, age and educational attainment**
-   [Eurostat](https://ec.europa.eu/eurostat/databrowser/bookmark/74e5d311-1b68-4b8b-9269-15f35206d404)
+1. **Life satisfaction data: Overall life satisfaction by sex, age and educational attainment** <br>
+      [Eurostat](https://ec.europa.eu/eurostat/databrowser/bookmark/74e5d311-1b68-4b8b-9269-15f35206d404)
 
-1. **Participation in cultural activities: Persons participating in cultural or sport activities in the last 12 months by sex, age, educational attainment, activity type and frequency**
-   [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/ilc_scp03/default/table)
+1. **Participation in cultural activities: Persons participating in cultural or sport activities in the last 12 months by sex, age, educational attainment, activity type and frequency** <br>
+      [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/ilc_scp03/default/table)
 
-1. **Country flags**
-   [Flagpedia.net/Wikipedia Commons SVGs](https://flagcdn.com)
+1. **Country flags** <br>
+      [Flagpedia.net/Wikipedia Commons SVGs](https://flagcdn.com)
 
-1. **Population by Country and Year**  
-   [Our World in Data](https://ourworldindata.org/grapher/population)
+1. **Population by Country and Year**  <br>
+      [Our World in Data](https://ourworldindata.org/grapher/population)
 
 1. **Country Code Mapping (ISO3 → ISO2)**  
-   [GitHub](https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv)
+      [GitHub](https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv)
 
 If you have questions about the source data, please add a comment to the [Dataviz World Champs contest page](https://aka.ms/WorldChampsEU).
 
@@ -84,19 +84,19 @@ This report brings together five open data sources to explore well-being, cultur
 
 ### Dimension Tables
 
-**Countries**: Contains country names, ISO codes (alpha-2 and alpha-3), flags, and region/sub-region classifications.
+- **Countries**: Contains country names, ISO codes (alpha-2 and alpha-3), flags, and region/sub-region classifications.
 
-**Years**: A simple list of years from 2000 to 2025, used to align time series data.
+- **Years**: A simple list of years from 2000 to 2025, used to align time series data.
 
 ### Fact Tables
 
-**Population**: Total national population per year. Useful for normalization (e.g., per capita metrics).
+- **Population**: Total national population per year. Useful for normalization (e.g., per capita metrics).
 
-**Life Satisfaction**: Average life satisfaction score (0–10) by country and year.
+- **Life Satisfaction**: Average life satisfaction score (0–10) by country and year.
 
-**Cultural Activity Participation**: % of population that attended cultural events (e.g., concerts, museums) per year.
+- **Cultural Activity Participation**: % of population that attended cultural events (e.g., concerts, museums) per year.
 
-**Renewable Energy**: Share of energy from renewable sources (%) by country and year.
+- **Renewable Energy**: Share of energy from renewable sources (%) by country and year.
 
 All fact tables link to the Countries and Years dimensions using one-to-many relationships, ensuring consistency and flexibility when analyzing trends over time or across regions.
 
@@ -108,4 +108,4 @@ This repository is provided under the MIT License. All third-party data remains 
 
 ---
 
-🎉 Happy visualizing — and good luck in the #PBI10 contest!
+🎉 Happy visualizing — and good luck in the contest - we can't wait to see what you create!
