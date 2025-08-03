@@ -1,96 +1,104 @@
-# 📊 Power BI 10th Birthday DataViz Contest: Tech Adoption Dataset
+# 🏆 [Power BI Dataviz World Champs | EU Edition](https://aka.ms/WorldChampsEU)
 
-This repository contains the dataset and Power BI starter file for the **PBI10 Dataviz Contest**, created to celebrate Power BI’s 10th birthday! 🥳  
+## Europe by the Numbers - World Champs Data and Starter File
 
-Participants can explore and visualize how technology adoption has changed globally over the past decade using standardized, per-100-person metrics.
+This repository contains the dataset and Power BI starter file for the **Power BI Dataviz World Champs** contest, EU edition. 
 
-🔗 **Contest announcement & instructions:**  👉 [PBI10 Dataviz Contest](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Coming-soon-PBI10-Dataviz-Contest/ba-p/4738013)
+The Power BI starter file helps you explore quality of life, culture, and sustainability across Europe over time, using four standardized indicators linked by country and year. You are welcome to use the starter file, but not required. What is required is that you include data in your submission from at least one of the included fact tables. You also must stick to the theme, looking at quality of life in Europe over time. Feel free to add supplemental data!
+
+🔗 **Contest announcement & instructions:**  👉 [Power BI DataViz World Championships](https://aka.ms/WorldChampsEU)
 
 ---
 
 ## 📁 What's Included
 
-- `PBI10 Starter File.pbix` — Power BI file with clean data model and visuals
+- `World Champs EU Starter File.pbix` — Power BI file with ready-to-use semantic model and table visual
 - `README.md` — This documentation
 - No data files are included in this repository — see below for download instructions
 
 ---
 
-## 🔽 How to Download the Data
+## 🔽 How to Download the Starter File
 
-Note: you do not have to download the data if you do not plan to make any changes to the starter semantic model. You will want to download the files if you're planning to amend or add to the data in the starter file.
+If you're not familiar with GitHub, here’s how to download the Power BI file:
 
-To keep this repository clean and aligned with data licensing terms, **no data files are stored here**. Instead, follow the links below to download the source CSVs directly from trusted public data providers:
+Navigate to the folder:
 
-### 📊 Required Datasets (CSV format)
+1. FabricCommunityContest/StarterFiles
 
-1. **Mobile Cellular Subscriptions**  
-   https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people
+1. Click on the .pbix file.
 
-2. **Fixed Telephone (Landline) Subscriptions**  
-   https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people
+1. Click the Download button (or right-click and choose Save link as...).
 
-3. **Internet Users**  
-   https://ourworldindata.org/grapher/number-of-internet-users
-
-4. **Population by Country and Year**  
-   https://ourworldindata.org/grapher/population
-
-5. **Country Code Mapping (ISO3 → ISO2)**  
-   https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv
-
-Note - there was a query in the starter file referencing "Technology Adoption by Households." As of June 24, this query no longer appears in the starter file.
-
-📁 Once downloaded, place all CSVs in the same local folder. Then follow the steps below to connect them to the Power BI file.
+You don’t need to clone the repository — just download the file directly.
 
 ---
 
-## ⚙️ How to Use the File
+## 🔽 How to Download the Data
 
-1. Open the `PBI10 Starter` file in Power BI Desktop.
+If you are using the starter file, you'll want to download the source data (with the exception of the Country Code Mapping) if you want to make any changes to the data in Power Query, including the addition of supplemental data. **You do not have to download the data** if you do not plan to make any changes to the starter semantic model. 
+
+To keep this repository clean and aligned with data licensing terms, **no data files are stored here**. Instead, follow the links below to download the source CSVs directly from trusted public data providers:
+
+### 📊 Source Data
+
+1. **Renewable energy share (% of gross final energy consumption)**
+   [Eurostat](https://db.nomics.world/Eurostat/nrg_ind_ren)
+
+1. **Life satisfaction data: Overall life satisfaction by sex, age and educational attainment**
+   [Eurostat](https://ec.europa.eu/eurostat/databrowser/bookmark/74e5d311-1b68-4b8b-9269-15f35206d404)
+
+1. **Participation in cultural activities: Persons participating in cultural or sport activities in the last 12 months by sex, age, educational attainment, activity type and frequency**
+   [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/ilc_scp03/default/table)
+
+1. **Country flags**
+   [Flagpedia.net/Wikipedia Commons SVGs](https://flagcdn.com)
+
+1. **Population by Country and Year**  
+   [Our World in Data](https://ourworldindata.org/grapher/population)
+
+1. **Country Code Mapping (ISO3 → ISO2)**  
+   [GitHub](https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv)
+
+If you have questions about the source data, please add a comment to the [Dataviz World Champs contest page](https://aka.ms/WorldChampsEU).
+
+📁 If you plan to use the starter file, we've created a parameter in the file for you (for ease of use). Once downloaded, place all data files in the same local folder. Then follow the steps below to connect them to the Power BI file. You do **not** have to use the starter file, it's provided to help you but is not a requirement.
+
+💡 Reminder - it is required that you use data from one of the first 3 files listed here: **Renewable energy share**, **life satisfaction data**, or **participation in cultural activities**.
+
+---
+
+## ⚙️ How to Use the Starter File
+
+1. Open the `World Champs EU Starter` file in Power BI Desktop.
 2. Go to **Home > Transform Data > Edit Parameters**
-3. Paste the full path to the folder where you saved the CSV files.  
-   👉 Example: C:\Users\YourName\Downloads\PBI10Data
+3. Paste the full path to the folder where you saved the source csv and XLSX files.  
+   👉 Example: C:\Users\YourName\Downloads\Data
 4. Click **OK**, then **Close & Apply** to load the data.
 
 ---
 
-## 🧠 Data Model Overview
+## 🧠 Semantic Model Overview
 
-| Table      | Description                                      |
-|------------|--------------------------------------------------|
-| `Countries`| Country name, ISO codes, region, flag URL |
-| `Years`    | Calendar years for analysis                     |
-| `Data`     | Per-100-person metrics by country and year: `LandlineUsersPer100`, `MobileUsersPer100`, `InternetUsersPer100` |
+This report brings together five open data sources to explore well-being, culture, sustainability, and demographics across European countries. The model is structured using a star schema with two dimension tables and four fact tables:
 
-All values are standardized and ready for comparison across time and geography.
+### Dimension Tables
 
-Note, if you're loading the data into Power Query yourself, you'll need to be sure to load the population data, as we standardize the internet data within Power Query using a custom column in the Internet Users query. 
+**Countries**: Contains country names, ISO codes (alpha-2 and alpha-3), flags, and region/sub-region classifications.
 
----
+**Years**: A simple list of years from 2000 to 2025, used to align time series data.
 
-## 📚 Citation
+### Fact Tables
 
-> International Telecommunication Union (ITU) via World Bank, UN World Population Prospects, Gapminder — processed by Our World in Data.  
-> *Mobile cellular subscriptions (per 100 people); Fixed telephone subscriptions (per 100 people); Share of individuals using the internet; and Population by country and year.*  
-> Retrieved from Our World in Data:  
-> - https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people  
-> - https://ourworldindata.org/grapher/fixed-telephone-subscriptions-per-100-people  
-> - https://ourworldindata.org/grapher/number-of-internet-users 
-> - https://ourworldindata.org/grapher/population
+**Population**: Total national population per year. Useful for normalization (e.g., per capita metrics).
 
-**Country code mapping dataset**:  
-> GitHub user [@lukes](https://github.com/lukes) — [ISO 3166 Countries with Regional Codes (CSV)](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
+**Life Satisfaction**: Average life satisfaction score (0–10) by country and year.
 
-Our World in Data content is available under the [Creative Commons BY license](https://ourworldindata.org/about#how-do-i-cite-your-work). Always provide attribution and cite third-party data providers as well.
+**Cultural Activity Participation**: % of population that attended cultural events (e.g., concerts, museums) per year.
 
----
+**Renewable Energy**: Share of energy from renewable sources (%) by country and year.
 
-## 🖼️ Flags
-
-Flag image URLs are generated using 2-letter ISO codes and the free CDN at [flagcdn.com](https://flagcdn.com).  
-
-Data model includes a column for these URLs in the `Countries` table — simply set the **Data Category** to `Image URL` in Power BI to display flags.
+All fact tables link to the Countries and Years dimensions using one-to-many relationships, ensuring consistency and flexibility when analyzing trends over time or across regions.
 
 ---
 
