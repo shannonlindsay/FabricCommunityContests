@@ -9,8 +9,11 @@ This repository contains the dataset and starters file for the **Fabric Data Day
 🔗 **Contest announcements & instructions:**  
 
 👉 [Power BI Dataviz Contest for Students | The College Quest in Fabricland](https://aka.ms/fdd/studentdataviz)
+
 👉 [Fabric Data Days Dataviz Contest | Your Data Story](https://aka.ms/fdd/prodataviz)
+
 👉 [Fabric Data Days Notebooks Contest | Cities of Tomorrow](https://aka.ms/fdd/notebooks)
+
 👉 [Fabric Data Days QuickViz Challenges](https://aka.ms/fdd/quickviz)
 
 ---
