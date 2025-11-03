@@ -26,7 +26,7 @@ This repository contains the dataset and starters file for the **Fabric Data Day
 
 ## 🔽 How to Download the Starter Files
 
-Students: Download the **College Quest in Fabricland** Power BI file from this [link](https://github.com/shannonlindsay/FabricCommunityContests/raw/refs/heads/main/StarterFiles/World%20Champs%20EU%20Starter%20File.pbix).
+Students: Download the **College Quest in Fabricland** Power BI file from this [link](https://github.com/shannonlindsay/FabricCommunityContests/raw/refs/heads/main/StarterFiles/FDD%20Student%20Starter%20File.pbix).
 
 Pros: Download the **Your Data Story** Power BI file from this [link]()
 
