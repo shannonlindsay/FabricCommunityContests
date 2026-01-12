@@ -1,34 +1,19 @@
-***This repository is in draft format - it will be updated on November 4***
-
-# 🏆 [Fabric Community Contests | Fabric Data Days Edition](https://aka.ms/FabricDataDays/Contests)
+# 🏆 [Fabric Community Contests | Power BI Dataviz World Champs | Atlanta 2026](https://aka.ms/PBIDVWC26)
 
 ## Fabric Data Days Community Contests
 
-This repository contains the dataset and starters file for the **Fabric Data Days** contests.
+This repository contains the dataset and starters file for the **Power BI Dataviz World Champs** contest. The contest officially kicks off at 8am Pacific on January 12, 2026.
 
 🔗 **Contest announcements & instructions:**  
 
-👉 [Power BI Dataviz Contest for Students | The College Quest in Fabricland](https://aka.ms/fdd/studentdataviz)
-
-👉 [Fabric Data Days Dataviz Contest | Your Data Story](https://aka.ms/fdd/prodataviz)
-
-👉 [Fabric Data Days Notebooks Contest | Cities of Tomorrow](https://aka.ms/fdd/notebooks)
-
-👉 [Fabric Data Days QuickViz Challenges](https://aka.ms/fdd/quickviz)
+Visit [aka.ms/pbidvwc26](https://aka.ms/pbidvwc26) for more details!
 
 ---
 
-## 📁 What's Included
+## 🔽 How to Download the Starter File
 
+Select [this link](https://github.com/shannonlindsay/FabricCommunityContests/raw/refs/heads/main/StarterFiles/World%20Champs%2026%20-%20Week%201%20Starter%20File.pbix), or navigate to the Starter Files folder on the main branch to download the starter files for each week.
 
-
----
-
-## 🔽 How to Download the Starter Files
-
-Students: Download the **College Quest in Fabricland** Power BI file from this [link](https://github.com/shannonlindsay/FabricCommunityContests/blob/main/StarterFiles/Student%20Starter%20File.pbix?raw=1).
-
-Pros: Download the **Your Data Story** Power BI file from this [link]()
 
 ---
 
