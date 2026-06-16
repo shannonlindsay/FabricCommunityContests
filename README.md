@@ -12,7 +12,7 @@ Visit [aka.ms/dd/create](https://aka.ms/dd/create) for more details!
 
 ## 🔽 How to Download the Starter File
 
-Select [this link](), or navigate to the Starter Files folder on the main branch to download the starter files for each week.
+Select [this link](https://github.com/shannonlindsay/FabricCommunityContests/raw/refs/heads/main/StarterFiles/World%20Champs%20BCN%2026%20-%20Round%201.pbix), or navigate to the Starter Files folder on the main branch to download the starter files for each week.
 
 
 ---
