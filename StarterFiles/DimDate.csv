@@ -1,0 +1,1827 @@
+DateKey,Date,Year,Quarter,MonthNumber,MonthName,YearMonth,WeekOfYear,DayOfWeek,DayOfWeekNum,IsWeekend,SeasonLabel,MomentLabel,IsTournamentWindow,IsTransferWindow,IsHolidayPeak,IsLeagueLaunch
+20210101,2021-01-01,2021,Q1,1,January,2021-01,53,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210102,2021-01-02,2021,Q1,1,January,2021-01,53,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210103,2021-01-03,2021,Q1,1,January,2021-01,53,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210104,2021-01-04,2021,Q1,1,January,2021-01,1,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210105,2021-01-05,2021,Q1,1,January,2021-01,1,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210106,2021-01-06,2021,Q1,1,January,2021-01,1,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210107,2021-01-07,2021,Q1,1,January,2021-01,1,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210108,2021-01-08,2021,Q1,1,January,2021-01,1,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210109,2021-01-09,2021,Q1,1,January,2021-01,1,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210110,2021-01-10,2021,Q1,1,January,2021-01,1,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210111,2021-01-11,2021,Q1,1,January,2021-01,2,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210112,2021-01-12,2021,Q1,1,January,2021-01,2,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210113,2021-01-13,2021,Q1,1,January,2021-01,2,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210114,2021-01-14,2021,Q1,1,January,2021-01,2,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210115,2021-01-15,2021,Q1,1,January,2021-01,2,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210116,2021-01-16,2021,Q1,1,January,2021-01,2,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210117,2021-01-17,2021,Q1,1,January,2021-01,2,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210118,2021-01-18,2021,Q1,1,January,2021-01,3,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210119,2021-01-19,2021,Q1,1,January,2021-01,3,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210120,2021-01-20,2021,Q1,1,January,2021-01,3,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210121,2021-01-21,2021,Q1,1,January,2021-01,3,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210122,2021-01-22,2021,Q1,1,January,2021-01,3,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210123,2021-01-23,2021,Q1,1,January,2021-01,3,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210124,2021-01-24,2021,Q1,1,January,2021-01,3,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210125,2021-01-25,2021,Q1,1,January,2021-01,4,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210126,2021-01-26,2021,Q1,1,January,2021-01,4,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210127,2021-01-27,2021,Q1,1,January,2021-01,4,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210128,2021-01-28,2021,Q1,1,January,2021-01,4,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210129,2021-01-29,2021,Q1,1,January,2021-01,4,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210130,2021-01-30,2021,Q1,1,January,2021-01,4,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210131,2021-01-31,2021,Q1,1,January,2021-01,4,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210201,2021-02-01,2021,Q1,2,February,2021-02,5,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210202,2021-02-02,2021,Q1,2,February,2021-02,5,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210203,2021-02-03,2021,Q1,2,February,2021-02,5,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210204,2021-02-04,2021,Q1,2,February,2021-02,5,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210205,2021-02-05,2021,Q1,2,February,2021-02,5,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210206,2021-02-06,2021,Q1,2,February,2021-02,5,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210207,2021-02-07,2021,Q1,2,February,2021-02,5,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210208,2021-02-08,2021,Q1,2,February,2021-02,6,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210209,2021-02-09,2021,Q1,2,February,2021-02,6,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210210,2021-02-10,2021,Q1,2,February,2021-02,6,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210211,2021-02-11,2021,Q1,2,February,2021-02,6,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210212,2021-02-12,2021,Q1,2,February,2021-02,6,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210213,2021-02-13,2021,Q1,2,February,2021-02,6,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210214,2021-02-14,2021,Q1,2,February,2021-02,6,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210215,2021-02-15,2021,Q1,2,February,2021-02,7,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210216,2021-02-16,2021,Q1,2,February,2021-02,7,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210217,2021-02-17,2021,Q1,2,February,2021-02,7,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210218,2021-02-18,2021,Q1,2,February,2021-02,7,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210219,2021-02-19,2021,Q1,2,February,2021-02,7,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210220,2021-02-20,2021,Q1,2,February,2021-02,7,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210221,2021-02-21,2021,Q1,2,February,2021-02,7,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210222,2021-02-22,2021,Q1,2,February,2021-02,8,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210223,2021-02-23,2021,Q1,2,February,2021-02,8,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210224,2021-02-24,2021,Q1,2,February,2021-02,8,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210225,2021-02-25,2021,Q1,2,February,2021-02,8,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210226,2021-02-26,2021,Q1,2,February,2021-02,8,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210227,2021-02-27,2021,Q1,2,February,2021-02,8,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210228,2021-02-28,2021,Q1,2,February,2021-02,8,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210301,2021-03-01,2021,Q1,3,March,2021-03,9,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210302,2021-03-02,2021,Q1,3,March,2021-03,9,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210303,2021-03-03,2021,Q1,3,March,2021-03,9,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210304,2021-03-04,2021,Q1,3,March,2021-03,9,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210305,2021-03-05,2021,Q1,3,March,2021-03,9,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210306,2021-03-06,2021,Q1,3,March,2021-03,9,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210307,2021-03-07,2021,Q1,3,March,2021-03,9,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210308,2021-03-08,2021,Q1,3,March,2021-03,10,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210309,2021-03-09,2021,Q1,3,March,2021-03,10,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210310,2021-03-10,2021,Q1,3,March,2021-03,10,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210311,2021-03-11,2021,Q1,3,March,2021-03,10,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210312,2021-03-12,2021,Q1,3,March,2021-03,10,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210313,2021-03-13,2021,Q1,3,March,2021-03,10,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210314,2021-03-14,2021,Q1,3,March,2021-03,10,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210315,2021-03-15,2021,Q1,3,March,2021-03,11,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210316,2021-03-16,2021,Q1,3,March,2021-03,11,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210317,2021-03-17,2021,Q1,3,March,2021-03,11,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210318,2021-03-18,2021,Q1,3,March,2021-03,11,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210319,2021-03-19,2021,Q1,3,March,2021-03,11,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210320,2021-03-20,2021,Q1,3,March,2021-03,11,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210321,2021-03-21,2021,Q1,3,March,2021-03,11,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210322,2021-03-22,2021,Q1,3,March,2021-03,12,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210323,2021-03-23,2021,Q1,3,March,2021-03,12,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210324,2021-03-24,2021,Q1,3,March,2021-03,12,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210325,2021-03-25,2021,Q1,3,March,2021-03,12,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210326,2021-03-26,2021,Q1,3,March,2021-03,12,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210327,2021-03-27,2021,Q1,3,March,2021-03,12,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210328,2021-03-28,2021,Q1,3,March,2021-03,12,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210329,2021-03-29,2021,Q1,3,March,2021-03,13,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210330,2021-03-30,2021,Q1,3,March,2021-03,13,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210331,2021-03-31,2021,Q1,3,March,2021-03,13,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210401,2021-04-01,2021,Q2,4,April,2021-04,13,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210402,2021-04-02,2021,Q2,4,April,2021-04,13,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210403,2021-04-03,2021,Q2,4,April,2021-04,13,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210404,2021-04-04,2021,Q2,4,April,2021-04,13,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210405,2021-04-05,2021,Q2,4,April,2021-04,14,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210406,2021-04-06,2021,Q2,4,April,2021-04,14,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210407,2021-04-07,2021,Q2,4,April,2021-04,14,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210408,2021-04-08,2021,Q2,4,April,2021-04,14,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210409,2021-04-09,2021,Q2,4,April,2021-04,14,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210410,2021-04-10,2021,Q2,4,April,2021-04,14,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210411,2021-04-11,2021,Q2,4,April,2021-04,14,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210412,2021-04-12,2021,Q2,4,April,2021-04,15,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210413,2021-04-13,2021,Q2,4,April,2021-04,15,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210414,2021-04-14,2021,Q2,4,April,2021-04,15,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210415,2021-04-15,2021,Q2,4,April,2021-04,15,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210416,2021-04-16,2021,Q2,4,April,2021-04,15,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210417,2021-04-17,2021,Q2,4,April,2021-04,15,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210418,2021-04-18,2021,Q2,4,April,2021-04,15,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210419,2021-04-19,2021,Q2,4,April,2021-04,16,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210420,2021-04-20,2021,Q2,4,April,2021-04,16,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210421,2021-04-21,2021,Q2,4,April,2021-04,16,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210422,2021-04-22,2021,Q2,4,April,2021-04,16,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210423,2021-04-23,2021,Q2,4,April,2021-04,16,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210424,2021-04-24,2021,Q2,4,April,2021-04,16,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210425,2021-04-25,2021,Q2,4,April,2021-04,16,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210426,2021-04-26,2021,Q2,4,April,2021-04,17,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210427,2021-04-27,2021,Q2,4,April,2021-04,17,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210428,2021-04-28,2021,Q2,4,April,2021-04,17,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210429,2021-04-29,2021,Q2,4,April,2021-04,17,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210430,2021-04-30,2021,Q2,4,April,2021-04,17,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210501,2021-05-01,2021,Q2,5,May,2021-05,17,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210502,2021-05-02,2021,Q2,5,May,2021-05,17,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210503,2021-05-03,2021,Q2,5,May,2021-05,18,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210504,2021-05-04,2021,Q2,5,May,2021-05,18,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210505,2021-05-05,2021,Q2,5,May,2021-05,18,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210506,2021-05-06,2021,Q2,5,May,2021-05,18,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210507,2021-05-07,2021,Q2,5,May,2021-05,18,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210508,2021-05-08,2021,Q2,5,May,2021-05,18,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210509,2021-05-09,2021,Q2,5,May,2021-05,18,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210510,2021-05-10,2021,Q2,5,May,2021-05,19,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210511,2021-05-11,2021,Q2,5,May,2021-05,19,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210512,2021-05-12,2021,Q2,5,May,2021-05,19,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210513,2021-05-13,2021,Q2,5,May,2021-05,19,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210514,2021-05-14,2021,Q2,5,May,2021-05,19,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210515,2021-05-15,2021,Q2,5,May,2021-05,19,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210516,2021-05-16,2021,Q2,5,May,2021-05,19,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210517,2021-05-17,2021,Q2,5,May,2021-05,20,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210518,2021-05-18,2021,Q2,5,May,2021-05,20,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210519,2021-05-19,2021,Q2,5,May,2021-05,20,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210520,2021-05-20,2021,Q2,5,May,2021-05,20,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210521,2021-05-21,2021,Q2,5,May,2021-05,20,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210522,2021-05-22,2021,Q2,5,May,2021-05,20,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210523,2021-05-23,2021,Q2,5,May,2021-05,20,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210524,2021-05-24,2021,Q2,5,May,2021-05,21,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210525,2021-05-25,2021,Q2,5,May,2021-05,21,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210526,2021-05-26,2021,Q2,5,May,2021-05,21,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210527,2021-05-27,2021,Q2,5,May,2021-05,21,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210528,2021-05-28,2021,Q2,5,May,2021-05,21,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210529,2021-05-29,2021,Q2,5,May,2021-05,21,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210530,2021-05-30,2021,Q2,5,May,2021-05,21,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20210531,2021-05-31,2021,Q2,5,May,2021-05,22,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20210601,2021-06-01,2021,Q2,6,June,2021-06,22,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210602,2021-06-02,2021,Q2,6,June,2021-06,22,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210603,2021-06-03,2021,Q2,6,June,2021-06,22,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210604,2021-06-04,2021,Q2,6,June,2021-06,22,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210605,2021-06-05,2021,Q2,6,June,2021-06,22,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210606,2021-06-06,2021,Q2,6,June,2021-06,22,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210607,2021-06-07,2021,Q2,6,June,2021-06,23,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210608,2021-06-08,2021,Q2,6,June,2021-06,23,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210609,2021-06-09,2021,Q2,6,June,2021-06,23,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210610,2021-06-10,2021,Q2,6,June,2021-06,23,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210611,2021-06-11,2021,Q2,6,June,2021-06,23,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210612,2021-06-12,2021,Q2,6,June,2021-06,23,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210613,2021-06-13,2021,Q2,6,June,2021-06,23,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210614,2021-06-14,2021,Q2,6,June,2021-06,24,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210615,2021-06-15,2021,Q2,6,June,2021-06,24,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210616,2021-06-16,2021,Q2,6,June,2021-06,24,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210617,2021-06-17,2021,Q2,6,June,2021-06,24,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210618,2021-06-18,2021,Q2,6,June,2021-06,24,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210619,2021-06-19,2021,Q2,6,June,2021-06,24,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210620,2021-06-20,2021,Q2,6,June,2021-06,24,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210621,2021-06-21,2021,Q2,6,June,2021-06,25,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210622,2021-06-22,2021,Q2,6,June,2021-06,25,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210623,2021-06-23,2021,Q2,6,June,2021-06,25,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210624,2021-06-24,2021,Q2,6,June,2021-06,25,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20210625,2021-06-25,2021,Q2,6,June,2021-06,25,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20210626,2021-06-26,2021,Q2,6,June,2021-06,25,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20210627,2021-06-27,2021,Q2,6,June,2021-06,25,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20210628,2021-06-28,2021,Q2,6,June,2021-06,26,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20210629,2021-06-29,2021,Q2,6,June,2021-06,26,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20210630,2021-06-30,2021,Q2,6,June,2021-06,26,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20210701,2021-07-01,2021,Q3,7,July,2021-07,26,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210702,2021-07-02,2021,Q3,7,July,2021-07,26,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210703,2021-07-03,2021,Q3,7,July,2021-07,26,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210704,2021-07-04,2021,Q3,7,July,2021-07,26,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210705,2021-07-05,2021,Q3,7,July,2021-07,27,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210706,2021-07-06,2021,Q3,7,July,2021-07,27,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210707,2021-07-07,2021,Q3,7,July,2021-07,27,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210708,2021-07-08,2021,Q3,7,July,2021-07,27,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210709,2021-07-09,2021,Q3,7,July,2021-07,27,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210710,2021-07-10,2021,Q3,7,July,2021-07,27,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210711,2021-07-11,2021,Q3,7,July,2021-07,27,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210712,2021-07-12,2021,Q3,7,July,2021-07,28,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210713,2021-07-13,2021,Q3,7,July,2021-07,28,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210714,2021-07-14,2021,Q3,7,July,2021-07,28,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210715,2021-07-15,2021,Q3,7,July,2021-07,28,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210716,2021-07-16,2021,Q3,7,July,2021-07,28,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210717,2021-07-17,2021,Q3,7,July,2021-07,28,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210718,2021-07-18,2021,Q3,7,July,2021-07,28,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210719,2021-07-19,2021,Q3,7,July,2021-07,29,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210720,2021-07-20,2021,Q3,7,July,2021-07,29,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210721,2021-07-21,2021,Q3,7,July,2021-07,29,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210722,2021-07-22,2021,Q3,7,July,2021-07,29,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210723,2021-07-23,2021,Q3,7,July,2021-07,29,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210724,2021-07-24,2021,Q3,7,July,2021-07,29,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210725,2021-07-25,2021,Q3,7,July,2021-07,29,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20210726,2021-07-26,2021,Q3,7,July,2021-07,30,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20210727,2021-07-27,2021,Q3,7,July,2021-07,30,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20210728,2021-07-28,2021,Q3,7,July,2021-07,30,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20210729,2021-07-29,2021,Q3,7,July,2021-07,30,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20210730,2021-07-30,2021,Q3,7,July,2021-07,30,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20210731,2021-07-31,2021,Q3,7,July,2021-07,30,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20210801,2021-08-01,2021,Q3,8,August,2021-08,30,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210802,2021-08-02,2021,Q3,8,August,2021-08,31,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210803,2021-08-03,2021,Q3,8,August,2021-08,31,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210804,2021-08-04,2021,Q3,8,August,2021-08,31,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210805,2021-08-05,2021,Q3,8,August,2021-08,31,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210806,2021-08-06,2021,Q3,8,August,2021-08,31,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210807,2021-08-07,2021,Q3,8,August,2021-08,31,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210808,2021-08-08,2021,Q3,8,August,2021-08,31,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210809,2021-08-09,2021,Q3,8,August,2021-08,32,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210810,2021-08-10,2021,Q3,8,August,2021-08,32,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210811,2021-08-11,2021,Q3,8,August,2021-08,32,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210812,2021-08-12,2021,Q3,8,August,2021-08,32,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210813,2021-08-13,2021,Q3,8,August,2021-08,32,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210814,2021-08-14,2021,Q3,8,August,2021-08,32,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210815,2021-08-15,2021,Q3,8,August,2021-08,32,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210816,2021-08-16,2021,Q3,8,August,2021-08,33,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210817,2021-08-17,2021,Q3,8,August,2021-08,33,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210818,2021-08-18,2021,Q3,8,August,2021-08,33,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210819,2021-08-19,2021,Q3,8,August,2021-08,33,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210820,2021-08-20,2021,Q3,8,August,2021-08,33,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210821,2021-08-21,2021,Q3,8,August,2021-08,33,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210822,2021-08-22,2021,Q3,8,August,2021-08,33,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210823,2021-08-23,2021,Q3,8,August,2021-08,34,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210824,2021-08-24,2021,Q3,8,August,2021-08,34,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210825,2021-08-25,2021,Q3,8,August,2021-08,34,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210826,2021-08-26,2021,Q3,8,August,2021-08,34,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210827,2021-08-27,2021,Q3,8,August,2021-08,34,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210828,2021-08-28,2021,Q3,8,August,2021-08,34,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210829,2021-08-29,2021,Q3,8,August,2021-08,34,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210830,2021-08-30,2021,Q3,8,August,2021-08,35,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210831,2021-08-31,2021,Q3,8,August,2021-08,35,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20210901,2021-09-01,2021,Q3,9,September,2021-09,35,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210902,2021-09-02,2021,Q3,9,September,2021-09,35,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210903,2021-09-03,2021,Q3,9,September,2021-09,35,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210904,2021-09-04,2021,Q3,9,September,2021-09,35,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210905,2021-09-05,2021,Q3,9,September,2021-09,35,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210906,2021-09-06,2021,Q3,9,September,2021-09,36,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210907,2021-09-07,2021,Q3,9,September,2021-09,36,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210908,2021-09-08,2021,Q3,9,September,2021-09,36,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210909,2021-09-09,2021,Q3,9,September,2021-09,36,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210910,2021-09-10,2021,Q3,9,September,2021-09,36,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210911,2021-09-11,2021,Q3,9,September,2021-09,36,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210912,2021-09-12,2021,Q3,9,September,2021-09,36,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210913,2021-09-13,2021,Q3,9,September,2021-09,37,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210914,2021-09-14,2021,Q3,9,September,2021-09,37,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210915,2021-09-15,2021,Q3,9,September,2021-09,37,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210916,2021-09-16,2021,Q3,9,September,2021-09,37,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210917,2021-09-17,2021,Q3,9,September,2021-09,37,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210918,2021-09-18,2021,Q3,9,September,2021-09,37,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210919,2021-09-19,2021,Q3,9,September,2021-09,37,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210920,2021-09-20,2021,Q3,9,September,2021-09,38,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210921,2021-09-21,2021,Q3,9,September,2021-09,38,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210922,2021-09-22,2021,Q3,9,September,2021-09,38,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210923,2021-09-23,2021,Q3,9,September,2021-09,38,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210924,2021-09-24,2021,Q3,9,September,2021-09,38,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210925,2021-09-25,2021,Q3,9,September,2021-09,38,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210926,2021-09-26,2021,Q3,9,September,2021-09,38,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210927,2021-09-27,2021,Q3,9,September,2021-09,39,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210928,2021-09-28,2021,Q3,9,September,2021-09,39,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210929,2021-09-29,2021,Q3,9,September,2021-09,39,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20210930,2021-09-30,2021,Q3,9,September,2021-09,39,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20211001,2021-10-01,2021,Q4,10,October,2021-10,39,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20211002,2021-10-02,2021,Q4,10,October,2021-10,39,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20211003,2021-10-03,2021,Q4,10,October,2021-10,39,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20211004,2021-10-04,2021,Q4,10,October,2021-10,40,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20211005,2021-10-05,2021,Q4,10,October,2021-10,40,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20211006,2021-10-06,2021,Q4,10,October,2021-10,40,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20211007,2021-10-07,2021,Q4,10,October,2021-10,40,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20211008,2021-10-08,2021,Q4,10,October,2021-10,40,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20211009,2021-10-09,2021,Q4,10,October,2021-10,40,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20211010,2021-10-10,2021,Q4,10,October,2021-10,40,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20211011,2021-10-11,2021,Q4,10,October,2021-10,41,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20211012,2021-10-12,2021,Q4,10,October,2021-10,41,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20211013,2021-10-13,2021,Q4,10,October,2021-10,41,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20211014,2021-10-14,2021,Q4,10,October,2021-10,41,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20211015,2021-10-15,2021,Q4,10,October,2021-10,41,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20211016,2021-10-16,2021,Q4,10,October,2021-10,41,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20211017,2021-10-17,2021,Q4,10,October,2021-10,41,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20211018,2021-10-18,2021,Q4,10,October,2021-10,42,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20211019,2021-10-19,2021,Q4,10,October,2021-10,42,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20211020,2021-10-20,2021,Q4,10,October,2021-10,42,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20211021,2021-10-21,2021,Q4,10,October,2021-10,42,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20211022,2021-10-22,2021,Q4,10,October,2021-10,42,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20211023,2021-10-23,2021,Q4,10,October,2021-10,42,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20211024,2021-10-24,2021,Q4,10,October,2021-10,42,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20211025,2021-10-25,2021,Q4,10,October,2021-10,43,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20211026,2021-10-26,2021,Q4,10,October,2021-10,43,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20211027,2021-10-27,2021,Q4,10,October,2021-10,43,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20211028,2021-10-28,2021,Q4,10,October,2021-10,43,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20211029,2021-10-29,2021,Q4,10,October,2021-10,43,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20211030,2021-10-30,2021,Q4,10,October,2021-10,43,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20211031,2021-10-31,2021,Q4,10,October,2021-10,43,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20211101,2021-11-01,2021,Q4,11,November,2021-11,44,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211102,2021-11-02,2021,Q4,11,November,2021-11,44,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211103,2021-11-03,2021,Q4,11,November,2021-11,44,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211104,2021-11-04,2021,Q4,11,November,2021-11,44,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211105,2021-11-05,2021,Q4,11,November,2021-11,44,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211106,2021-11-06,2021,Q4,11,November,2021-11,44,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211107,2021-11-07,2021,Q4,11,November,2021-11,44,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211108,2021-11-08,2021,Q4,11,November,2021-11,45,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211109,2021-11-09,2021,Q4,11,November,2021-11,45,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211110,2021-11-10,2021,Q4,11,November,2021-11,45,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211111,2021-11-11,2021,Q4,11,November,2021-11,45,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211112,2021-11-12,2021,Q4,11,November,2021-11,45,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211113,2021-11-13,2021,Q4,11,November,2021-11,45,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211114,2021-11-14,2021,Q4,11,November,2021-11,45,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211115,2021-11-15,2021,Q4,11,November,2021-11,46,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211116,2021-11-16,2021,Q4,11,November,2021-11,46,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211117,2021-11-17,2021,Q4,11,November,2021-11,46,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211118,2021-11-18,2021,Q4,11,November,2021-11,46,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211119,2021-11-19,2021,Q4,11,November,2021-11,46,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211120,2021-11-20,2021,Q4,11,November,2021-11,46,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211121,2021-11-21,2021,Q4,11,November,2021-11,46,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211122,2021-11-22,2021,Q4,11,November,2021-11,47,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211123,2021-11-23,2021,Q4,11,November,2021-11,47,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211124,2021-11-24,2021,Q4,11,November,2021-11,47,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211125,2021-11-25,2021,Q4,11,November,2021-11,47,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211126,2021-11-26,2021,Q4,11,November,2021-11,47,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211127,2021-11-27,2021,Q4,11,November,2021-11,47,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211128,2021-11-28,2021,Q4,11,November,2021-11,47,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211129,2021-11-29,2021,Q4,11,November,2021-11,48,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211130,2021-11-30,2021,Q4,11,November,2021-11,48,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211201,2021-12-01,2021,Q4,12,December,2021-12,48,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211202,2021-12-02,2021,Q4,12,December,2021-12,48,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211203,2021-12-03,2021,Q4,12,December,2021-12,48,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211204,2021-12-04,2021,Q4,12,December,2021-12,48,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211205,2021-12-05,2021,Q4,12,December,2021-12,48,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211206,2021-12-06,2021,Q4,12,December,2021-12,49,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211207,2021-12-07,2021,Q4,12,December,2021-12,49,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211208,2021-12-08,2021,Q4,12,December,2021-12,49,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211209,2021-12-09,2021,Q4,12,December,2021-12,49,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211210,2021-12-10,2021,Q4,12,December,2021-12,49,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211211,2021-12-11,2021,Q4,12,December,2021-12,49,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211212,2021-12-12,2021,Q4,12,December,2021-12,49,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211213,2021-12-13,2021,Q4,12,December,2021-12,50,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211214,2021-12-14,2021,Q4,12,December,2021-12,50,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211215,2021-12-15,2021,Q4,12,December,2021-12,50,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211216,2021-12-16,2021,Q4,12,December,2021-12,50,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211217,2021-12-17,2021,Q4,12,December,2021-12,50,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211218,2021-12-18,2021,Q4,12,December,2021-12,50,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211219,2021-12-19,2021,Q4,12,December,2021-12,50,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211220,2021-12-20,2021,Q4,12,December,2021-12,51,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211221,2021-12-21,2021,Q4,12,December,2021-12,51,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211222,2021-12-22,2021,Q4,12,December,2021-12,51,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211223,2021-12-23,2021,Q4,12,December,2021-12,51,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211224,2021-12-24,2021,Q4,12,December,2021-12,51,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211225,2021-12-25,2021,Q4,12,December,2021-12,51,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211226,2021-12-26,2021,Q4,12,December,2021-12,51,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211227,2021-12-27,2021,Q4,12,December,2021-12,52,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211228,2021-12-28,2021,Q4,12,December,2021-12,52,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211229,2021-12-29,2021,Q4,12,December,2021-12,52,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211230,2021-12-30,2021,Q4,12,December,2021-12,52,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20211231,2021-12-31,2021,Q4,12,December,2021-12,52,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20220101,2022-01-01,2022,Q1,1,January,2022-01,52,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20220102,2022-01-02,2022,Q1,1,January,2022-01,52,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20220103,2022-01-03,2022,Q1,1,January,2022-01,1,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20220104,2022-01-04,2022,Q1,1,January,2022-01,1,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20220105,2022-01-05,2022,Q1,1,January,2022-01,1,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20220106,2022-01-06,2022,Q1,1,January,2022-01,1,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20220107,2022-01-07,2022,Q1,1,January,2022-01,1,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20220108,2022-01-08,2022,Q1,1,January,2022-01,1,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20220109,2022-01-09,2022,Q1,1,January,2022-01,1,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20220110,2022-01-10,2022,Q1,1,January,2022-01,2,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20220111,2022-01-11,2022,Q1,1,January,2022-01,2,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20220112,2022-01-12,2022,Q1,1,January,2022-01,2,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20220113,2022-01-13,2022,Q1,1,January,2022-01,2,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20220114,2022-01-14,2022,Q1,1,January,2022-01,2,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20220115,2022-01-15,2022,Q1,1,January,2022-01,2,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20220116,2022-01-16,2022,Q1,1,January,2022-01,2,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20220117,2022-01-17,2022,Q1,1,January,2022-01,3,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20220118,2022-01-18,2022,Q1,1,January,2022-01,3,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20220119,2022-01-19,2022,Q1,1,January,2022-01,3,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20220120,2022-01-20,2022,Q1,1,January,2022-01,3,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20220121,2022-01-21,2022,Q1,1,January,2022-01,3,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20220122,2022-01-22,2022,Q1,1,January,2022-01,3,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20220123,2022-01-23,2022,Q1,1,January,2022-01,3,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20220124,2022-01-24,2022,Q1,1,January,2022-01,4,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20220125,2022-01-25,2022,Q1,1,January,2022-01,4,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20220126,2022-01-26,2022,Q1,1,January,2022-01,4,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20220127,2022-01-27,2022,Q1,1,January,2022-01,4,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20220128,2022-01-28,2022,Q1,1,January,2022-01,4,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20220129,2022-01-29,2022,Q1,1,January,2022-01,4,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20220130,2022-01-30,2022,Q1,1,January,2022-01,4,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20220131,2022-01-31,2022,Q1,1,January,2022-01,5,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20220201,2022-02-01,2022,Q1,2,February,2022-02,5,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220202,2022-02-02,2022,Q1,2,February,2022-02,5,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220203,2022-02-03,2022,Q1,2,February,2022-02,5,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220204,2022-02-04,2022,Q1,2,February,2022-02,5,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220205,2022-02-05,2022,Q1,2,February,2022-02,5,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220206,2022-02-06,2022,Q1,2,February,2022-02,5,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220207,2022-02-07,2022,Q1,2,February,2022-02,6,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220208,2022-02-08,2022,Q1,2,February,2022-02,6,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220209,2022-02-09,2022,Q1,2,February,2022-02,6,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220210,2022-02-10,2022,Q1,2,February,2022-02,6,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220211,2022-02-11,2022,Q1,2,February,2022-02,6,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220212,2022-02-12,2022,Q1,2,February,2022-02,6,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220213,2022-02-13,2022,Q1,2,February,2022-02,6,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220214,2022-02-14,2022,Q1,2,February,2022-02,7,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220215,2022-02-15,2022,Q1,2,February,2022-02,7,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220216,2022-02-16,2022,Q1,2,February,2022-02,7,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220217,2022-02-17,2022,Q1,2,February,2022-02,7,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220218,2022-02-18,2022,Q1,2,February,2022-02,7,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220219,2022-02-19,2022,Q1,2,February,2022-02,7,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220220,2022-02-20,2022,Q1,2,February,2022-02,7,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220221,2022-02-21,2022,Q1,2,February,2022-02,8,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220222,2022-02-22,2022,Q1,2,February,2022-02,8,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220223,2022-02-23,2022,Q1,2,February,2022-02,8,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220224,2022-02-24,2022,Q1,2,February,2022-02,8,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220225,2022-02-25,2022,Q1,2,February,2022-02,8,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220226,2022-02-26,2022,Q1,2,February,2022-02,8,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220227,2022-02-27,2022,Q1,2,February,2022-02,8,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220228,2022-02-28,2022,Q1,2,February,2022-02,9,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220301,2022-03-01,2022,Q1,3,March,2022-03,9,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220302,2022-03-02,2022,Q1,3,March,2022-03,9,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220303,2022-03-03,2022,Q1,3,March,2022-03,9,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220304,2022-03-04,2022,Q1,3,March,2022-03,9,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220305,2022-03-05,2022,Q1,3,March,2022-03,9,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220306,2022-03-06,2022,Q1,3,March,2022-03,9,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220307,2022-03-07,2022,Q1,3,March,2022-03,10,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220308,2022-03-08,2022,Q1,3,March,2022-03,10,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220309,2022-03-09,2022,Q1,3,March,2022-03,10,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220310,2022-03-10,2022,Q1,3,March,2022-03,10,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220311,2022-03-11,2022,Q1,3,March,2022-03,10,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220312,2022-03-12,2022,Q1,3,March,2022-03,10,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220313,2022-03-13,2022,Q1,3,March,2022-03,10,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220314,2022-03-14,2022,Q1,3,March,2022-03,11,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220315,2022-03-15,2022,Q1,3,March,2022-03,11,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220316,2022-03-16,2022,Q1,3,March,2022-03,11,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220317,2022-03-17,2022,Q1,3,March,2022-03,11,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220318,2022-03-18,2022,Q1,3,March,2022-03,11,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220319,2022-03-19,2022,Q1,3,March,2022-03,11,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220320,2022-03-20,2022,Q1,3,March,2022-03,11,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220321,2022-03-21,2022,Q1,3,March,2022-03,12,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220322,2022-03-22,2022,Q1,3,March,2022-03,12,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220323,2022-03-23,2022,Q1,3,March,2022-03,12,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220324,2022-03-24,2022,Q1,3,March,2022-03,12,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220325,2022-03-25,2022,Q1,3,March,2022-03,12,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220326,2022-03-26,2022,Q1,3,March,2022-03,12,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220327,2022-03-27,2022,Q1,3,March,2022-03,12,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220328,2022-03-28,2022,Q1,3,March,2022-03,13,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220329,2022-03-29,2022,Q1,3,March,2022-03,13,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220330,2022-03-30,2022,Q1,3,March,2022-03,13,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220331,2022-03-31,2022,Q1,3,March,2022-03,13,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220401,2022-04-01,2022,Q2,4,April,2022-04,13,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220402,2022-04-02,2022,Q2,4,April,2022-04,13,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220403,2022-04-03,2022,Q2,4,April,2022-04,13,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220404,2022-04-04,2022,Q2,4,April,2022-04,14,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220405,2022-04-05,2022,Q2,4,April,2022-04,14,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220406,2022-04-06,2022,Q2,4,April,2022-04,14,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220407,2022-04-07,2022,Q2,4,April,2022-04,14,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220408,2022-04-08,2022,Q2,4,April,2022-04,14,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220409,2022-04-09,2022,Q2,4,April,2022-04,14,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220410,2022-04-10,2022,Q2,4,April,2022-04,14,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220411,2022-04-11,2022,Q2,4,April,2022-04,15,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220412,2022-04-12,2022,Q2,4,April,2022-04,15,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220413,2022-04-13,2022,Q2,4,April,2022-04,15,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220414,2022-04-14,2022,Q2,4,April,2022-04,15,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220415,2022-04-15,2022,Q2,4,April,2022-04,15,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220416,2022-04-16,2022,Q2,4,April,2022-04,15,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220417,2022-04-17,2022,Q2,4,April,2022-04,15,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220418,2022-04-18,2022,Q2,4,April,2022-04,16,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220419,2022-04-19,2022,Q2,4,April,2022-04,16,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220420,2022-04-20,2022,Q2,4,April,2022-04,16,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220421,2022-04-21,2022,Q2,4,April,2022-04,16,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220422,2022-04-22,2022,Q2,4,April,2022-04,16,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220423,2022-04-23,2022,Q2,4,April,2022-04,16,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220424,2022-04-24,2022,Q2,4,April,2022-04,16,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220425,2022-04-25,2022,Q2,4,April,2022-04,17,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220426,2022-04-26,2022,Q2,4,April,2022-04,17,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220427,2022-04-27,2022,Q2,4,April,2022-04,17,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220428,2022-04-28,2022,Q2,4,April,2022-04,17,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220429,2022-04-29,2022,Q2,4,April,2022-04,17,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220430,2022-04-30,2022,Q2,4,April,2022-04,17,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220501,2022-05-01,2022,Q2,5,May,2022-05,17,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220502,2022-05-02,2022,Q2,5,May,2022-05,18,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220503,2022-05-03,2022,Q2,5,May,2022-05,18,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220504,2022-05-04,2022,Q2,5,May,2022-05,18,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220505,2022-05-05,2022,Q2,5,May,2022-05,18,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220506,2022-05-06,2022,Q2,5,May,2022-05,18,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220507,2022-05-07,2022,Q2,5,May,2022-05,18,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220508,2022-05-08,2022,Q2,5,May,2022-05,18,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220509,2022-05-09,2022,Q2,5,May,2022-05,19,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220510,2022-05-10,2022,Q2,5,May,2022-05,19,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220511,2022-05-11,2022,Q2,5,May,2022-05,19,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220512,2022-05-12,2022,Q2,5,May,2022-05,19,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220513,2022-05-13,2022,Q2,5,May,2022-05,19,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220514,2022-05-14,2022,Q2,5,May,2022-05,19,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220515,2022-05-15,2022,Q2,5,May,2022-05,19,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220516,2022-05-16,2022,Q2,5,May,2022-05,20,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220517,2022-05-17,2022,Q2,5,May,2022-05,20,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220518,2022-05-18,2022,Q2,5,May,2022-05,20,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220519,2022-05-19,2022,Q2,5,May,2022-05,20,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220520,2022-05-20,2022,Q2,5,May,2022-05,20,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220521,2022-05-21,2022,Q2,5,May,2022-05,20,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220522,2022-05-22,2022,Q2,5,May,2022-05,20,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220523,2022-05-23,2022,Q2,5,May,2022-05,21,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220524,2022-05-24,2022,Q2,5,May,2022-05,21,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220525,2022-05-25,2022,Q2,5,May,2022-05,21,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220526,2022-05-26,2022,Q2,5,May,2022-05,21,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220527,2022-05-27,2022,Q2,5,May,2022-05,21,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220528,2022-05-28,2022,Q2,5,May,2022-05,21,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220529,2022-05-29,2022,Q2,5,May,2022-05,21,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20220530,2022-05-30,2022,Q2,5,May,2022-05,22,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220531,2022-05-31,2022,Q2,5,May,2022-05,22,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20220601,2022-06-01,2022,Q2,6,June,2022-06,22,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220602,2022-06-02,2022,Q2,6,June,2022-06,22,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220603,2022-06-03,2022,Q2,6,June,2022-06,22,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20220604,2022-06-04,2022,Q2,6,June,2022-06,22,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20220605,2022-06-05,2022,Q2,6,June,2022-06,22,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20220606,2022-06-06,2022,Q2,6,June,2022-06,23,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20220607,2022-06-07,2022,Q2,6,June,2022-06,23,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20220608,2022-06-08,2022,Q2,6,June,2022-06,23,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20220609,2022-06-09,2022,Q2,6,June,2022-06,23,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20220610,2022-06-10,2022,Q2,6,June,2022-06,23,Friday,5,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220611,2022-06-11,2022,Q2,6,June,2022-06,23,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220612,2022-06-12,2022,Q2,6,June,2022-06,23,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220613,2022-06-13,2022,Q2,6,June,2022-06,24,Monday,1,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220614,2022-06-14,2022,Q2,6,June,2022-06,24,Tuesday,2,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220615,2022-06-15,2022,Q2,6,June,2022-06,24,Wednesday,3,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220616,2022-06-16,2022,Q2,6,June,2022-06,24,Thursday,4,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220617,2022-06-17,2022,Q2,6,June,2022-06,24,Friday,5,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220618,2022-06-18,2022,Q2,6,June,2022-06,24,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220619,2022-06-19,2022,Q2,6,June,2022-06,24,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220620,2022-06-20,2022,Q2,6,June,2022-06,25,Monday,1,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220621,2022-06-21,2022,Q2,6,June,2022-06,25,Tuesday,2,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220622,2022-06-22,2022,Q2,6,June,2022-06,25,Wednesday,3,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220623,2022-06-23,2022,Q2,6,June,2022-06,25,Thursday,4,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220624,2022-06-24,2022,Q2,6,June,2022-06,25,Friday,5,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220625,2022-06-25,2022,Q2,6,June,2022-06,25,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220626,2022-06-26,2022,Q2,6,June,2022-06,25,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220627,2022-06-27,2022,Q2,6,June,2022-06,26,Monday,1,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220628,2022-06-28,2022,Q2,6,June,2022-06,26,Tuesday,2,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220629,2022-06-29,2022,Q2,6,June,2022-06,26,Wednesday,3,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220630,2022-06-30,2022,Q2,6,June,2022-06,26,Thursday,4,0,Global Cup 2022,Global Cup 2022,1,0,0,0
+20220701,2022-07-01,2022,Q3,7,July,2022-07,26,Friday,5,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220702,2022-07-02,2022,Q3,7,July,2022-07,26,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220703,2022-07-03,2022,Q3,7,July,2022-07,26,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220704,2022-07-04,2022,Q3,7,July,2022-07,27,Monday,1,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220705,2022-07-05,2022,Q3,7,July,2022-07,27,Tuesday,2,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220706,2022-07-06,2022,Q3,7,July,2022-07,27,Wednesday,3,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220707,2022-07-07,2022,Q3,7,July,2022-07,27,Thursday,4,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220708,2022-07-08,2022,Q3,7,July,2022-07,27,Friday,5,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220709,2022-07-09,2022,Q3,7,July,2022-07,27,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220710,2022-07-10,2022,Q3,7,July,2022-07,27,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220711,2022-07-11,2022,Q3,7,July,2022-07,28,Monday,1,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220712,2022-07-12,2022,Q3,7,July,2022-07,28,Tuesday,2,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220713,2022-07-13,2022,Q3,7,July,2022-07,28,Wednesday,3,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220714,2022-07-14,2022,Q3,7,July,2022-07,28,Thursday,4,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220715,2022-07-15,2022,Q3,7,July,2022-07,28,Friday,5,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220716,2022-07-16,2022,Q3,7,July,2022-07,28,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220717,2022-07-17,2022,Q3,7,July,2022-07,28,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220718,2022-07-18,2022,Q3,7,July,2022-07,29,Monday,1,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220719,2022-07-19,2022,Q3,7,July,2022-07,29,Tuesday,2,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220720,2022-07-20,2022,Q3,7,July,2022-07,29,Wednesday,3,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220721,2022-07-21,2022,Q3,7,July,2022-07,29,Thursday,4,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220722,2022-07-22,2022,Q3,7,July,2022-07,29,Friday,5,0,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220723,2022-07-23,2022,Q3,7,July,2022-07,29,Saturday,6,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220724,2022-07-24,2022,Q3,7,July,2022-07,29,Sunday,7,1,Global Cup 2022,Global Cup 2022,1,1,0,0
+20220725,2022-07-25,2022,Q3,7,July,2022-07,30,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20220726,2022-07-26,2022,Q3,7,July,2022-07,30,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20220727,2022-07-27,2022,Q3,7,July,2022-07,30,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20220728,2022-07-28,2022,Q3,7,July,2022-07,30,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20220729,2022-07-29,2022,Q3,7,July,2022-07,30,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20220730,2022-07-30,2022,Q3,7,July,2022-07,30,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20220731,2022-07-31,2022,Q3,7,July,2022-07,30,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20220801,2022-08-01,2022,Q3,8,August,2022-08,31,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220802,2022-08-02,2022,Q3,8,August,2022-08,31,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220803,2022-08-03,2022,Q3,8,August,2022-08,31,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220804,2022-08-04,2022,Q3,8,August,2022-08,31,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220805,2022-08-05,2022,Q3,8,August,2022-08,31,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220806,2022-08-06,2022,Q3,8,August,2022-08,31,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220807,2022-08-07,2022,Q3,8,August,2022-08,31,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220808,2022-08-08,2022,Q3,8,August,2022-08,32,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220809,2022-08-09,2022,Q3,8,August,2022-08,32,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220810,2022-08-10,2022,Q3,8,August,2022-08,32,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220811,2022-08-11,2022,Q3,8,August,2022-08,32,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220812,2022-08-12,2022,Q3,8,August,2022-08,32,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220813,2022-08-13,2022,Q3,8,August,2022-08,32,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220814,2022-08-14,2022,Q3,8,August,2022-08,32,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220815,2022-08-15,2022,Q3,8,August,2022-08,33,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220816,2022-08-16,2022,Q3,8,August,2022-08,33,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220817,2022-08-17,2022,Q3,8,August,2022-08,33,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220818,2022-08-18,2022,Q3,8,August,2022-08,33,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220819,2022-08-19,2022,Q3,8,August,2022-08,33,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220820,2022-08-20,2022,Q3,8,August,2022-08,33,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220821,2022-08-21,2022,Q3,8,August,2022-08,33,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220822,2022-08-22,2022,Q3,8,August,2022-08,34,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220823,2022-08-23,2022,Q3,8,August,2022-08,34,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220824,2022-08-24,2022,Q3,8,August,2022-08,34,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220825,2022-08-25,2022,Q3,8,August,2022-08,34,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220826,2022-08-26,2022,Q3,8,August,2022-08,34,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220827,2022-08-27,2022,Q3,8,August,2022-08,34,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220828,2022-08-28,2022,Q3,8,August,2022-08,34,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220829,2022-08-29,2022,Q3,8,August,2022-08,35,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220830,2022-08-30,2022,Q3,8,August,2022-08,35,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220831,2022-08-31,2022,Q3,8,August,2022-08,35,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20220901,2022-09-01,2022,Q3,9,September,2022-09,35,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220902,2022-09-02,2022,Q3,9,September,2022-09,35,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220903,2022-09-03,2022,Q3,9,September,2022-09,35,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220904,2022-09-04,2022,Q3,9,September,2022-09,35,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220905,2022-09-05,2022,Q3,9,September,2022-09,36,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220906,2022-09-06,2022,Q3,9,September,2022-09,36,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220907,2022-09-07,2022,Q3,9,September,2022-09,36,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220908,2022-09-08,2022,Q3,9,September,2022-09,36,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220909,2022-09-09,2022,Q3,9,September,2022-09,36,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220910,2022-09-10,2022,Q3,9,September,2022-09,36,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220911,2022-09-11,2022,Q3,9,September,2022-09,36,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220912,2022-09-12,2022,Q3,9,September,2022-09,37,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220913,2022-09-13,2022,Q3,9,September,2022-09,37,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220914,2022-09-14,2022,Q3,9,September,2022-09,37,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220915,2022-09-15,2022,Q3,9,September,2022-09,37,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220916,2022-09-16,2022,Q3,9,September,2022-09,37,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220917,2022-09-17,2022,Q3,9,September,2022-09,37,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220918,2022-09-18,2022,Q3,9,September,2022-09,37,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220919,2022-09-19,2022,Q3,9,September,2022-09,38,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220920,2022-09-20,2022,Q3,9,September,2022-09,38,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220921,2022-09-21,2022,Q3,9,September,2022-09,38,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220922,2022-09-22,2022,Q3,9,September,2022-09,38,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220923,2022-09-23,2022,Q3,9,September,2022-09,38,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220924,2022-09-24,2022,Q3,9,September,2022-09,38,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220925,2022-09-25,2022,Q3,9,September,2022-09,38,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220926,2022-09-26,2022,Q3,9,September,2022-09,39,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220927,2022-09-27,2022,Q3,9,September,2022-09,39,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220928,2022-09-28,2022,Q3,9,September,2022-09,39,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220929,2022-09-29,2022,Q3,9,September,2022-09,39,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20220930,2022-09-30,2022,Q3,9,September,2022-09,39,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20221001,2022-10-01,2022,Q4,10,October,2022-10,39,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20221002,2022-10-02,2022,Q4,10,October,2022-10,39,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20221003,2022-10-03,2022,Q4,10,October,2022-10,40,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20221004,2022-10-04,2022,Q4,10,October,2022-10,40,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20221005,2022-10-05,2022,Q4,10,October,2022-10,40,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20221006,2022-10-06,2022,Q4,10,October,2022-10,40,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20221007,2022-10-07,2022,Q4,10,October,2022-10,40,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20221008,2022-10-08,2022,Q4,10,October,2022-10,40,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20221009,2022-10-09,2022,Q4,10,October,2022-10,40,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20221010,2022-10-10,2022,Q4,10,October,2022-10,41,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20221011,2022-10-11,2022,Q4,10,October,2022-10,41,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20221012,2022-10-12,2022,Q4,10,October,2022-10,41,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20221013,2022-10-13,2022,Q4,10,October,2022-10,41,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20221014,2022-10-14,2022,Q4,10,October,2022-10,41,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20221015,2022-10-15,2022,Q4,10,October,2022-10,41,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20221016,2022-10-16,2022,Q4,10,October,2022-10,41,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20221017,2022-10-17,2022,Q4,10,October,2022-10,42,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20221018,2022-10-18,2022,Q4,10,October,2022-10,42,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20221019,2022-10-19,2022,Q4,10,October,2022-10,42,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20221020,2022-10-20,2022,Q4,10,October,2022-10,42,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20221021,2022-10-21,2022,Q4,10,October,2022-10,42,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20221022,2022-10-22,2022,Q4,10,October,2022-10,42,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20221023,2022-10-23,2022,Q4,10,October,2022-10,42,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20221024,2022-10-24,2022,Q4,10,October,2022-10,43,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20221025,2022-10-25,2022,Q4,10,October,2022-10,43,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20221026,2022-10-26,2022,Q4,10,October,2022-10,43,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20221027,2022-10-27,2022,Q4,10,October,2022-10,43,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20221028,2022-10-28,2022,Q4,10,October,2022-10,43,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20221029,2022-10-29,2022,Q4,10,October,2022-10,43,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20221030,2022-10-30,2022,Q4,10,October,2022-10,43,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20221031,2022-10-31,2022,Q4,10,October,2022-10,44,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20221101,2022-11-01,2022,Q4,11,November,2022-11,44,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221102,2022-11-02,2022,Q4,11,November,2022-11,44,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221103,2022-11-03,2022,Q4,11,November,2022-11,44,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221104,2022-11-04,2022,Q4,11,November,2022-11,44,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221105,2022-11-05,2022,Q4,11,November,2022-11,44,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221106,2022-11-06,2022,Q4,11,November,2022-11,44,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221107,2022-11-07,2022,Q4,11,November,2022-11,45,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221108,2022-11-08,2022,Q4,11,November,2022-11,45,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221109,2022-11-09,2022,Q4,11,November,2022-11,45,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221110,2022-11-10,2022,Q4,11,November,2022-11,45,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221111,2022-11-11,2022,Q4,11,November,2022-11,45,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221112,2022-11-12,2022,Q4,11,November,2022-11,45,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221113,2022-11-13,2022,Q4,11,November,2022-11,45,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221114,2022-11-14,2022,Q4,11,November,2022-11,46,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221115,2022-11-15,2022,Q4,11,November,2022-11,46,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221116,2022-11-16,2022,Q4,11,November,2022-11,46,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221117,2022-11-17,2022,Q4,11,November,2022-11,46,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221118,2022-11-18,2022,Q4,11,November,2022-11,46,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221119,2022-11-19,2022,Q4,11,November,2022-11,46,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221120,2022-11-20,2022,Q4,11,November,2022-11,46,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221121,2022-11-21,2022,Q4,11,November,2022-11,47,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221122,2022-11-22,2022,Q4,11,November,2022-11,47,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221123,2022-11-23,2022,Q4,11,November,2022-11,47,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221124,2022-11-24,2022,Q4,11,November,2022-11,47,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221125,2022-11-25,2022,Q4,11,November,2022-11,47,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221126,2022-11-26,2022,Q4,11,November,2022-11,47,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221127,2022-11-27,2022,Q4,11,November,2022-11,47,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221128,2022-11-28,2022,Q4,11,November,2022-11,48,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221129,2022-11-29,2022,Q4,11,November,2022-11,48,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221130,2022-11-30,2022,Q4,11,November,2022-11,48,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221201,2022-12-01,2022,Q4,12,December,2022-12,48,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221202,2022-12-02,2022,Q4,12,December,2022-12,48,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221203,2022-12-03,2022,Q4,12,December,2022-12,48,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221204,2022-12-04,2022,Q4,12,December,2022-12,48,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221205,2022-12-05,2022,Q4,12,December,2022-12,49,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221206,2022-12-06,2022,Q4,12,December,2022-12,49,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221207,2022-12-07,2022,Q4,12,December,2022-12,49,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221208,2022-12-08,2022,Q4,12,December,2022-12,49,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221209,2022-12-09,2022,Q4,12,December,2022-12,49,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221210,2022-12-10,2022,Q4,12,December,2022-12,49,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221211,2022-12-11,2022,Q4,12,December,2022-12,49,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221212,2022-12-12,2022,Q4,12,December,2022-12,50,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221213,2022-12-13,2022,Q4,12,December,2022-12,50,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221214,2022-12-14,2022,Q4,12,December,2022-12,50,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221215,2022-12-15,2022,Q4,12,December,2022-12,50,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221216,2022-12-16,2022,Q4,12,December,2022-12,50,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221217,2022-12-17,2022,Q4,12,December,2022-12,50,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221218,2022-12-18,2022,Q4,12,December,2022-12,50,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221219,2022-12-19,2022,Q4,12,December,2022-12,51,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221220,2022-12-20,2022,Q4,12,December,2022-12,51,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221221,2022-12-21,2022,Q4,12,December,2022-12,51,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221222,2022-12-22,2022,Q4,12,December,2022-12,51,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221223,2022-12-23,2022,Q4,12,December,2022-12,51,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221224,2022-12-24,2022,Q4,12,December,2022-12,51,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221225,2022-12-25,2022,Q4,12,December,2022-12,51,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221226,2022-12-26,2022,Q4,12,December,2022-12,52,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221227,2022-12-27,2022,Q4,12,December,2022-12,52,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221228,2022-12-28,2022,Q4,12,December,2022-12,52,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221229,2022-12-29,2022,Q4,12,December,2022-12,52,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221230,2022-12-30,2022,Q4,12,December,2022-12,52,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20221231,2022-12-31,2022,Q4,12,December,2022-12,52,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20230101,2023-01-01,2023,Q1,1,January,2023-01,52,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230102,2023-01-02,2023,Q1,1,January,2023-01,1,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230103,2023-01-03,2023,Q1,1,January,2023-01,1,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230104,2023-01-04,2023,Q1,1,January,2023-01,1,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230105,2023-01-05,2023,Q1,1,January,2023-01,1,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230106,2023-01-06,2023,Q1,1,January,2023-01,1,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230107,2023-01-07,2023,Q1,1,January,2023-01,1,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230108,2023-01-08,2023,Q1,1,January,2023-01,1,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230109,2023-01-09,2023,Q1,1,January,2023-01,2,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230110,2023-01-10,2023,Q1,1,January,2023-01,2,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230111,2023-01-11,2023,Q1,1,January,2023-01,2,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230112,2023-01-12,2023,Q1,1,January,2023-01,2,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230113,2023-01-13,2023,Q1,1,January,2023-01,2,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230114,2023-01-14,2023,Q1,1,January,2023-01,2,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230115,2023-01-15,2023,Q1,1,January,2023-01,2,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230116,2023-01-16,2023,Q1,1,January,2023-01,3,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230117,2023-01-17,2023,Q1,1,January,2023-01,3,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230118,2023-01-18,2023,Q1,1,January,2023-01,3,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230119,2023-01-19,2023,Q1,1,January,2023-01,3,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230120,2023-01-20,2023,Q1,1,January,2023-01,3,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230121,2023-01-21,2023,Q1,1,January,2023-01,3,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230122,2023-01-22,2023,Q1,1,January,2023-01,3,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230123,2023-01-23,2023,Q1,1,January,2023-01,4,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230124,2023-01-24,2023,Q1,1,January,2023-01,4,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230125,2023-01-25,2023,Q1,1,January,2023-01,4,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230126,2023-01-26,2023,Q1,1,January,2023-01,4,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230127,2023-01-27,2023,Q1,1,January,2023-01,4,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230128,2023-01-28,2023,Q1,1,January,2023-01,4,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230129,2023-01-29,2023,Q1,1,January,2023-01,4,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230130,2023-01-30,2023,Q1,1,January,2023-01,5,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230131,2023-01-31,2023,Q1,1,January,2023-01,5,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230201,2023-02-01,2023,Q1,2,February,2023-02,5,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230202,2023-02-02,2023,Q1,2,February,2023-02,5,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230203,2023-02-03,2023,Q1,2,February,2023-02,5,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230204,2023-02-04,2023,Q1,2,February,2023-02,5,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230205,2023-02-05,2023,Q1,2,February,2023-02,5,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230206,2023-02-06,2023,Q1,2,February,2023-02,6,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230207,2023-02-07,2023,Q1,2,February,2023-02,6,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230208,2023-02-08,2023,Q1,2,February,2023-02,6,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230209,2023-02-09,2023,Q1,2,February,2023-02,6,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230210,2023-02-10,2023,Q1,2,February,2023-02,6,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230211,2023-02-11,2023,Q1,2,February,2023-02,6,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230212,2023-02-12,2023,Q1,2,February,2023-02,6,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230213,2023-02-13,2023,Q1,2,February,2023-02,7,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230214,2023-02-14,2023,Q1,2,February,2023-02,7,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230215,2023-02-15,2023,Q1,2,February,2023-02,7,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230216,2023-02-16,2023,Q1,2,February,2023-02,7,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230217,2023-02-17,2023,Q1,2,February,2023-02,7,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230218,2023-02-18,2023,Q1,2,February,2023-02,7,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230219,2023-02-19,2023,Q1,2,February,2023-02,7,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230220,2023-02-20,2023,Q1,2,February,2023-02,8,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230221,2023-02-21,2023,Q1,2,February,2023-02,8,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230222,2023-02-22,2023,Q1,2,February,2023-02,8,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230223,2023-02-23,2023,Q1,2,February,2023-02,8,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230224,2023-02-24,2023,Q1,2,February,2023-02,8,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230225,2023-02-25,2023,Q1,2,February,2023-02,8,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230226,2023-02-26,2023,Q1,2,February,2023-02,8,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230227,2023-02-27,2023,Q1,2,February,2023-02,9,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230228,2023-02-28,2023,Q1,2,February,2023-02,9,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230301,2023-03-01,2023,Q1,3,March,2023-03,9,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230302,2023-03-02,2023,Q1,3,March,2023-03,9,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230303,2023-03-03,2023,Q1,3,March,2023-03,9,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230304,2023-03-04,2023,Q1,3,March,2023-03,9,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230305,2023-03-05,2023,Q1,3,March,2023-03,9,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230306,2023-03-06,2023,Q1,3,March,2023-03,10,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230307,2023-03-07,2023,Q1,3,March,2023-03,10,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230308,2023-03-08,2023,Q1,3,March,2023-03,10,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230309,2023-03-09,2023,Q1,3,March,2023-03,10,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230310,2023-03-10,2023,Q1,3,March,2023-03,10,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230311,2023-03-11,2023,Q1,3,March,2023-03,10,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230312,2023-03-12,2023,Q1,3,March,2023-03,10,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230313,2023-03-13,2023,Q1,3,March,2023-03,11,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230314,2023-03-14,2023,Q1,3,March,2023-03,11,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230315,2023-03-15,2023,Q1,3,March,2023-03,11,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230316,2023-03-16,2023,Q1,3,March,2023-03,11,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230317,2023-03-17,2023,Q1,3,March,2023-03,11,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230318,2023-03-18,2023,Q1,3,March,2023-03,11,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230319,2023-03-19,2023,Q1,3,March,2023-03,11,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230320,2023-03-20,2023,Q1,3,March,2023-03,12,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230321,2023-03-21,2023,Q1,3,March,2023-03,12,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230322,2023-03-22,2023,Q1,3,March,2023-03,12,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230323,2023-03-23,2023,Q1,3,March,2023-03,12,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230324,2023-03-24,2023,Q1,3,March,2023-03,12,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230325,2023-03-25,2023,Q1,3,March,2023-03,12,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230326,2023-03-26,2023,Q1,3,March,2023-03,12,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230327,2023-03-27,2023,Q1,3,March,2023-03,13,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230328,2023-03-28,2023,Q1,3,March,2023-03,13,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230329,2023-03-29,2023,Q1,3,March,2023-03,13,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230330,2023-03-30,2023,Q1,3,March,2023-03,13,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230331,2023-03-31,2023,Q1,3,March,2023-03,13,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230401,2023-04-01,2023,Q2,4,April,2023-04,13,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230402,2023-04-02,2023,Q2,4,April,2023-04,13,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230403,2023-04-03,2023,Q2,4,April,2023-04,14,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230404,2023-04-04,2023,Q2,4,April,2023-04,14,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230405,2023-04-05,2023,Q2,4,April,2023-04,14,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230406,2023-04-06,2023,Q2,4,April,2023-04,14,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230407,2023-04-07,2023,Q2,4,April,2023-04,14,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230408,2023-04-08,2023,Q2,4,April,2023-04,14,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230409,2023-04-09,2023,Q2,4,April,2023-04,14,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230410,2023-04-10,2023,Q2,4,April,2023-04,15,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230411,2023-04-11,2023,Q2,4,April,2023-04,15,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230412,2023-04-12,2023,Q2,4,April,2023-04,15,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230413,2023-04-13,2023,Q2,4,April,2023-04,15,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230414,2023-04-14,2023,Q2,4,April,2023-04,15,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230415,2023-04-15,2023,Q2,4,April,2023-04,15,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230416,2023-04-16,2023,Q2,4,April,2023-04,15,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230417,2023-04-17,2023,Q2,4,April,2023-04,16,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230418,2023-04-18,2023,Q2,4,April,2023-04,16,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230419,2023-04-19,2023,Q2,4,April,2023-04,16,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230420,2023-04-20,2023,Q2,4,April,2023-04,16,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230421,2023-04-21,2023,Q2,4,April,2023-04,16,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230422,2023-04-22,2023,Q2,4,April,2023-04,16,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230423,2023-04-23,2023,Q2,4,April,2023-04,16,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230424,2023-04-24,2023,Q2,4,April,2023-04,17,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230425,2023-04-25,2023,Q2,4,April,2023-04,17,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230426,2023-04-26,2023,Q2,4,April,2023-04,17,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230427,2023-04-27,2023,Q2,4,April,2023-04,17,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230428,2023-04-28,2023,Q2,4,April,2023-04,17,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230429,2023-04-29,2023,Q2,4,April,2023-04,17,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230430,2023-04-30,2023,Q2,4,April,2023-04,17,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230501,2023-05-01,2023,Q2,5,May,2023-05,18,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230502,2023-05-02,2023,Q2,5,May,2023-05,18,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230503,2023-05-03,2023,Q2,5,May,2023-05,18,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230504,2023-05-04,2023,Q2,5,May,2023-05,18,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230505,2023-05-05,2023,Q2,5,May,2023-05,18,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230506,2023-05-06,2023,Q2,5,May,2023-05,18,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230507,2023-05-07,2023,Q2,5,May,2023-05,18,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230508,2023-05-08,2023,Q2,5,May,2023-05,19,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230509,2023-05-09,2023,Q2,5,May,2023-05,19,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230510,2023-05-10,2023,Q2,5,May,2023-05,19,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230511,2023-05-11,2023,Q2,5,May,2023-05,19,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230512,2023-05-12,2023,Q2,5,May,2023-05,19,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230513,2023-05-13,2023,Q2,5,May,2023-05,19,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230514,2023-05-14,2023,Q2,5,May,2023-05,19,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230515,2023-05-15,2023,Q2,5,May,2023-05,20,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230516,2023-05-16,2023,Q2,5,May,2023-05,20,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230517,2023-05-17,2023,Q2,5,May,2023-05,20,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230518,2023-05-18,2023,Q2,5,May,2023-05,20,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230519,2023-05-19,2023,Q2,5,May,2023-05,20,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230520,2023-05-20,2023,Q2,5,May,2023-05,20,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230521,2023-05-21,2023,Q2,5,May,2023-05,20,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230522,2023-05-22,2023,Q2,5,May,2023-05,21,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230523,2023-05-23,2023,Q2,5,May,2023-05,21,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230524,2023-05-24,2023,Q2,5,May,2023-05,21,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230525,2023-05-25,2023,Q2,5,May,2023-05,21,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230526,2023-05-26,2023,Q2,5,May,2023-05,21,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230527,2023-05-27,2023,Q2,5,May,2023-05,21,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230528,2023-05-28,2023,Q2,5,May,2023-05,21,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20230529,2023-05-29,2023,Q2,5,May,2023-05,22,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230530,2023-05-30,2023,Q2,5,May,2023-05,22,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230531,2023-05-31,2023,Q2,5,May,2023-05,22,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20230601,2023-06-01,2023,Q2,6,June,2023-06,22,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230602,2023-06-02,2023,Q2,6,June,2023-06,22,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230603,2023-06-03,2023,Q2,6,June,2023-06,22,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230604,2023-06-04,2023,Q2,6,June,2023-06,22,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230605,2023-06-05,2023,Q2,6,June,2023-06,23,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230606,2023-06-06,2023,Q2,6,June,2023-06,23,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230607,2023-06-07,2023,Q2,6,June,2023-06,23,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230608,2023-06-08,2023,Q2,6,June,2023-06,23,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230609,2023-06-09,2023,Q2,6,June,2023-06,23,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230610,2023-06-10,2023,Q2,6,June,2023-06,23,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230611,2023-06-11,2023,Q2,6,June,2023-06,23,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230612,2023-06-12,2023,Q2,6,June,2023-06,24,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230613,2023-06-13,2023,Q2,6,June,2023-06,24,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230614,2023-06-14,2023,Q2,6,June,2023-06,24,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230615,2023-06-15,2023,Q2,6,June,2023-06,24,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230616,2023-06-16,2023,Q2,6,June,2023-06,24,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230617,2023-06-17,2023,Q2,6,June,2023-06,24,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230618,2023-06-18,2023,Q2,6,June,2023-06,24,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230619,2023-06-19,2023,Q2,6,June,2023-06,25,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230620,2023-06-20,2023,Q2,6,June,2023-06,25,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230621,2023-06-21,2023,Q2,6,June,2023-06,25,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230622,2023-06-22,2023,Q2,6,June,2023-06,25,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230623,2023-06-23,2023,Q2,6,June,2023-06,25,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230624,2023-06-24,2023,Q2,6,June,2023-06,25,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20230625,2023-06-25,2023,Q2,6,June,2023-06,25,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20230626,2023-06-26,2023,Q2,6,June,2023-06,26,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20230627,2023-06-27,2023,Q2,6,June,2023-06,26,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20230628,2023-06-28,2023,Q2,6,June,2023-06,26,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20230629,2023-06-29,2023,Q2,6,June,2023-06,26,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20230630,2023-06-30,2023,Q2,6,June,2023-06,26,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20230701,2023-07-01,2023,Q3,7,July,2023-07,26,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230702,2023-07-02,2023,Q3,7,July,2023-07,26,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230703,2023-07-03,2023,Q3,7,July,2023-07,27,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230704,2023-07-04,2023,Q3,7,July,2023-07,27,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230705,2023-07-05,2023,Q3,7,July,2023-07,27,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230706,2023-07-06,2023,Q3,7,July,2023-07,27,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230707,2023-07-07,2023,Q3,7,July,2023-07,27,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230708,2023-07-08,2023,Q3,7,July,2023-07,27,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230709,2023-07-09,2023,Q3,7,July,2023-07,27,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230710,2023-07-10,2023,Q3,7,July,2023-07,28,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230711,2023-07-11,2023,Q3,7,July,2023-07,28,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230712,2023-07-12,2023,Q3,7,July,2023-07,28,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230713,2023-07-13,2023,Q3,7,July,2023-07,28,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230714,2023-07-14,2023,Q3,7,July,2023-07,28,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230715,2023-07-15,2023,Q3,7,July,2023-07,28,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230716,2023-07-16,2023,Q3,7,July,2023-07,28,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230717,2023-07-17,2023,Q3,7,July,2023-07,29,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230718,2023-07-18,2023,Q3,7,July,2023-07,29,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230719,2023-07-19,2023,Q3,7,July,2023-07,29,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230720,2023-07-20,2023,Q3,7,July,2023-07,29,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230721,2023-07-21,2023,Q3,7,July,2023-07,29,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230722,2023-07-22,2023,Q3,7,July,2023-07,29,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230723,2023-07-23,2023,Q3,7,July,2023-07,29,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230724,2023-07-24,2023,Q3,7,July,2023-07,30,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230725,2023-07-25,2023,Q3,7,July,2023-07,30,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20230726,2023-07-26,2023,Q3,7,July,2023-07,30,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20230727,2023-07-27,2023,Q3,7,July,2023-07,30,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20230728,2023-07-28,2023,Q3,7,July,2023-07,30,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20230729,2023-07-29,2023,Q3,7,July,2023-07,30,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20230730,2023-07-30,2023,Q3,7,July,2023-07,30,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20230731,2023-07-31,2023,Q3,7,July,2023-07,31,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20230801,2023-08-01,2023,Q3,8,August,2023-08,31,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230802,2023-08-02,2023,Q3,8,August,2023-08,31,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230803,2023-08-03,2023,Q3,8,August,2023-08,31,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230804,2023-08-04,2023,Q3,8,August,2023-08,31,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230805,2023-08-05,2023,Q3,8,August,2023-08,31,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230806,2023-08-06,2023,Q3,8,August,2023-08,31,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230807,2023-08-07,2023,Q3,8,August,2023-08,32,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230808,2023-08-08,2023,Q3,8,August,2023-08,32,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230809,2023-08-09,2023,Q3,8,August,2023-08,32,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230810,2023-08-10,2023,Q3,8,August,2023-08,32,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230811,2023-08-11,2023,Q3,8,August,2023-08,32,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230812,2023-08-12,2023,Q3,8,August,2023-08,32,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230813,2023-08-13,2023,Q3,8,August,2023-08,32,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230814,2023-08-14,2023,Q3,8,August,2023-08,33,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230815,2023-08-15,2023,Q3,8,August,2023-08,33,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230816,2023-08-16,2023,Q3,8,August,2023-08,33,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230817,2023-08-17,2023,Q3,8,August,2023-08,33,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230818,2023-08-18,2023,Q3,8,August,2023-08,33,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230819,2023-08-19,2023,Q3,8,August,2023-08,33,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230820,2023-08-20,2023,Q3,8,August,2023-08,33,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230821,2023-08-21,2023,Q3,8,August,2023-08,34,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230822,2023-08-22,2023,Q3,8,August,2023-08,34,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230823,2023-08-23,2023,Q3,8,August,2023-08,34,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230824,2023-08-24,2023,Q3,8,August,2023-08,34,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230825,2023-08-25,2023,Q3,8,August,2023-08,34,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230826,2023-08-26,2023,Q3,8,August,2023-08,34,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230827,2023-08-27,2023,Q3,8,August,2023-08,34,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230828,2023-08-28,2023,Q3,8,August,2023-08,35,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230829,2023-08-29,2023,Q3,8,August,2023-08,35,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230830,2023-08-30,2023,Q3,8,August,2023-08,35,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230831,2023-08-31,2023,Q3,8,August,2023-08,35,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20230901,2023-09-01,2023,Q3,9,September,2023-09,35,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230902,2023-09-02,2023,Q3,9,September,2023-09,35,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230903,2023-09-03,2023,Q3,9,September,2023-09,35,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230904,2023-09-04,2023,Q3,9,September,2023-09,36,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230905,2023-09-05,2023,Q3,9,September,2023-09,36,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230906,2023-09-06,2023,Q3,9,September,2023-09,36,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230907,2023-09-07,2023,Q3,9,September,2023-09,36,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230908,2023-09-08,2023,Q3,9,September,2023-09,36,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230909,2023-09-09,2023,Q3,9,September,2023-09,36,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230910,2023-09-10,2023,Q3,9,September,2023-09,36,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230911,2023-09-11,2023,Q3,9,September,2023-09,37,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230912,2023-09-12,2023,Q3,9,September,2023-09,37,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230913,2023-09-13,2023,Q3,9,September,2023-09,37,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230914,2023-09-14,2023,Q3,9,September,2023-09,37,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230915,2023-09-15,2023,Q3,9,September,2023-09,37,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230916,2023-09-16,2023,Q3,9,September,2023-09,37,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230917,2023-09-17,2023,Q3,9,September,2023-09,37,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230918,2023-09-18,2023,Q3,9,September,2023-09,38,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230919,2023-09-19,2023,Q3,9,September,2023-09,38,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230920,2023-09-20,2023,Q3,9,September,2023-09,38,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230921,2023-09-21,2023,Q3,9,September,2023-09,38,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230922,2023-09-22,2023,Q3,9,September,2023-09,38,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230923,2023-09-23,2023,Q3,9,September,2023-09,38,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230924,2023-09-24,2023,Q3,9,September,2023-09,38,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230925,2023-09-25,2023,Q3,9,September,2023-09,39,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230926,2023-09-26,2023,Q3,9,September,2023-09,39,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230927,2023-09-27,2023,Q3,9,September,2023-09,39,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230928,2023-09-28,2023,Q3,9,September,2023-09,39,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230929,2023-09-29,2023,Q3,9,September,2023-09,39,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20230930,2023-09-30,2023,Q3,9,September,2023-09,39,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20231001,2023-10-01,2023,Q4,10,October,2023-10,39,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20231002,2023-10-02,2023,Q4,10,October,2023-10,40,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20231003,2023-10-03,2023,Q4,10,October,2023-10,40,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20231004,2023-10-04,2023,Q4,10,October,2023-10,40,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20231005,2023-10-05,2023,Q4,10,October,2023-10,40,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20231006,2023-10-06,2023,Q4,10,October,2023-10,40,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20231007,2023-10-07,2023,Q4,10,October,2023-10,40,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20231008,2023-10-08,2023,Q4,10,October,2023-10,40,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20231009,2023-10-09,2023,Q4,10,October,2023-10,41,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20231010,2023-10-10,2023,Q4,10,October,2023-10,41,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20231011,2023-10-11,2023,Q4,10,October,2023-10,41,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20231012,2023-10-12,2023,Q4,10,October,2023-10,41,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20231013,2023-10-13,2023,Q4,10,October,2023-10,41,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20231014,2023-10-14,2023,Q4,10,October,2023-10,41,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20231015,2023-10-15,2023,Q4,10,October,2023-10,41,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20231016,2023-10-16,2023,Q4,10,October,2023-10,42,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20231017,2023-10-17,2023,Q4,10,October,2023-10,42,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20231018,2023-10-18,2023,Q4,10,October,2023-10,42,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20231019,2023-10-19,2023,Q4,10,October,2023-10,42,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20231020,2023-10-20,2023,Q4,10,October,2023-10,42,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20231021,2023-10-21,2023,Q4,10,October,2023-10,42,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20231022,2023-10-22,2023,Q4,10,October,2023-10,42,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20231023,2023-10-23,2023,Q4,10,October,2023-10,43,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20231024,2023-10-24,2023,Q4,10,October,2023-10,43,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20231025,2023-10-25,2023,Q4,10,October,2023-10,43,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20231026,2023-10-26,2023,Q4,10,October,2023-10,43,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20231027,2023-10-27,2023,Q4,10,October,2023-10,43,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20231028,2023-10-28,2023,Q4,10,October,2023-10,43,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20231029,2023-10-29,2023,Q4,10,October,2023-10,43,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20231030,2023-10-30,2023,Q4,10,October,2023-10,44,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20231031,2023-10-31,2023,Q4,10,October,2023-10,44,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20231101,2023-11-01,2023,Q4,11,November,2023-11,44,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231102,2023-11-02,2023,Q4,11,November,2023-11,44,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231103,2023-11-03,2023,Q4,11,November,2023-11,44,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231104,2023-11-04,2023,Q4,11,November,2023-11,44,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231105,2023-11-05,2023,Q4,11,November,2023-11,44,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231106,2023-11-06,2023,Q4,11,November,2023-11,45,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231107,2023-11-07,2023,Q4,11,November,2023-11,45,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231108,2023-11-08,2023,Q4,11,November,2023-11,45,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231109,2023-11-09,2023,Q4,11,November,2023-11,45,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231110,2023-11-10,2023,Q4,11,November,2023-11,45,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231111,2023-11-11,2023,Q4,11,November,2023-11,45,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231112,2023-11-12,2023,Q4,11,November,2023-11,45,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231113,2023-11-13,2023,Q4,11,November,2023-11,46,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231114,2023-11-14,2023,Q4,11,November,2023-11,46,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231115,2023-11-15,2023,Q4,11,November,2023-11,46,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231116,2023-11-16,2023,Q4,11,November,2023-11,46,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231117,2023-11-17,2023,Q4,11,November,2023-11,46,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231118,2023-11-18,2023,Q4,11,November,2023-11,46,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231119,2023-11-19,2023,Q4,11,November,2023-11,46,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231120,2023-11-20,2023,Q4,11,November,2023-11,47,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231121,2023-11-21,2023,Q4,11,November,2023-11,47,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231122,2023-11-22,2023,Q4,11,November,2023-11,47,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231123,2023-11-23,2023,Q4,11,November,2023-11,47,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231124,2023-11-24,2023,Q4,11,November,2023-11,47,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231125,2023-11-25,2023,Q4,11,November,2023-11,47,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231126,2023-11-26,2023,Q4,11,November,2023-11,47,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231127,2023-11-27,2023,Q4,11,November,2023-11,48,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231128,2023-11-28,2023,Q4,11,November,2023-11,48,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231129,2023-11-29,2023,Q4,11,November,2023-11,48,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231130,2023-11-30,2023,Q4,11,November,2023-11,48,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231201,2023-12-01,2023,Q4,12,December,2023-12,48,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231202,2023-12-02,2023,Q4,12,December,2023-12,48,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231203,2023-12-03,2023,Q4,12,December,2023-12,48,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231204,2023-12-04,2023,Q4,12,December,2023-12,49,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231205,2023-12-05,2023,Q4,12,December,2023-12,49,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231206,2023-12-06,2023,Q4,12,December,2023-12,49,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231207,2023-12-07,2023,Q4,12,December,2023-12,49,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231208,2023-12-08,2023,Q4,12,December,2023-12,49,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231209,2023-12-09,2023,Q4,12,December,2023-12,49,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231210,2023-12-10,2023,Q4,12,December,2023-12,49,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231211,2023-12-11,2023,Q4,12,December,2023-12,50,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231212,2023-12-12,2023,Q4,12,December,2023-12,50,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231213,2023-12-13,2023,Q4,12,December,2023-12,50,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231214,2023-12-14,2023,Q4,12,December,2023-12,50,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231215,2023-12-15,2023,Q4,12,December,2023-12,50,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231216,2023-12-16,2023,Q4,12,December,2023-12,50,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231217,2023-12-17,2023,Q4,12,December,2023-12,50,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231218,2023-12-18,2023,Q4,12,December,2023-12,51,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231219,2023-12-19,2023,Q4,12,December,2023-12,51,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231220,2023-12-20,2023,Q4,12,December,2023-12,51,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231221,2023-12-21,2023,Q4,12,December,2023-12,51,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231222,2023-12-22,2023,Q4,12,December,2023-12,51,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231223,2023-12-23,2023,Q4,12,December,2023-12,51,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231224,2023-12-24,2023,Q4,12,December,2023-12,51,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231225,2023-12-25,2023,Q4,12,December,2023-12,52,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231226,2023-12-26,2023,Q4,12,December,2023-12,52,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231227,2023-12-27,2023,Q4,12,December,2023-12,52,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231228,2023-12-28,2023,Q4,12,December,2023-12,52,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231229,2023-12-29,2023,Q4,12,December,2023-12,52,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231230,2023-12-30,2023,Q4,12,December,2023-12,52,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20231231,2023-12-31,2023,Q4,12,December,2023-12,52,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20240101,2024-01-01,2024,Q1,1,January,2024-01,1,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240102,2024-01-02,2024,Q1,1,January,2024-01,1,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240103,2024-01-03,2024,Q1,1,January,2024-01,1,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240104,2024-01-04,2024,Q1,1,January,2024-01,1,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20240105,2024-01-05,2024,Q1,1,January,2024-01,1,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20240106,2024-01-06,2024,Q1,1,January,2024-01,1,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20240107,2024-01-07,2024,Q1,1,January,2024-01,1,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20240108,2024-01-08,2024,Q1,1,January,2024-01,2,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240109,2024-01-09,2024,Q1,1,January,2024-01,2,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240110,2024-01-10,2024,Q1,1,January,2024-01,2,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240111,2024-01-11,2024,Q1,1,January,2024-01,2,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20240112,2024-01-12,2024,Q1,1,January,2024-01,2,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20240113,2024-01-13,2024,Q1,1,January,2024-01,2,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20240114,2024-01-14,2024,Q1,1,January,2024-01,2,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20240115,2024-01-15,2024,Q1,1,January,2024-01,3,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240116,2024-01-16,2024,Q1,1,January,2024-01,3,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240117,2024-01-17,2024,Q1,1,January,2024-01,3,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240118,2024-01-18,2024,Q1,1,January,2024-01,3,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20240119,2024-01-19,2024,Q1,1,January,2024-01,3,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20240120,2024-01-20,2024,Q1,1,January,2024-01,3,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20240121,2024-01-21,2024,Q1,1,January,2024-01,3,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20240122,2024-01-22,2024,Q1,1,January,2024-01,4,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240123,2024-01-23,2024,Q1,1,January,2024-01,4,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240124,2024-01-24,2024,Q1,1,January,2024-01,4,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240125,2024-01-25,2024,Q1,1,January,2024-01,4,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20240126,2024-01-26,2024,Q1,1,January,2024-01,4,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20240127,2024-01-27,2024,Q1,1,January,2024-01,4,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20240128,2024-01-28,2024,Q1,1,January,2024-01,4,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20240129,2024-01-29,2024,Q1,1,January,2024-01,5,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240130,2024-01-30,2024,Q1,1,January,2024-01,5,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240131,2024-01-31,2024,Q1,1,January,2024-01,5,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240201,2024-02-01,2024,Q1,2,February,2024-02,5,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240202,2024-02-02,2024,Q1,2,February,2024-02,5,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240203,2024-02-03,2024,Q1,2,February,2024-02,5,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240204,2024-02-04,2024,Q1,2,February,2024-02,5,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240205,2024-02-05,2024,Q1,2,February,2024-02,6,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240206,2024-02-06,2024,Q1,2,February,2024-02,6,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240207,2024-02-07,2024,Q1,2,February,2024-02,6,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240208,2024-02-08,2024,Q1,2,February,2024-02,6,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240209,2024-02-09,2024,Q1,2,February,2024-02,6,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240210,2024-02-10,2024,Q1,2,February,2024-02,6,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240211,2024-02-11,2024,Q1,2,February,2024-02,6,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240212,2024-02-12,2024,Q1,2,February,2024-02,7,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240213,2024-02-13,2024,Q1,2,February,2024-02,7,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240214,2024-02-14,2024,Q1,2,February,2024-02,7,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240215,2024-02-15,2024,Q1,2,February,2024-02,7,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240216,2024-02-16,2024,Q1,2,February,2024-02,7,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240217,2024-02-17,2024,Q1,2,February,2024-02,7,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240218,2024-02-18,2024,Q1,2,February,2024-02,7,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240219,2024-02-19,2024,Q1,2,February,2024-02,8,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240220,2024-02-20,2024,Q1,2,February,2024-02,8,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240221,2024-02-21,2024,Q1,2,February,2024-02,8,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240222,2024-02-22,2024,Q1,2,February,2024-02,8,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240223,2024-02-23,2024,Q1,2,February,2024-02,8,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240224,2024-02-24,2024,Q1,2,February,2024-02,8,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240225,2024-02-25,2024,Q1,2,February,2024-02,8,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240226,2024-02-26,2024,Q1,2,February,2024-02,9,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240227,2024-02-27,2024,Q1,2,February,2024-02,9,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240228,2024-02-28,2024,Q1,2,February,2024-02,9,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240229,2024-02-29,2024,Q1,2,February,2024-02,9,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240301,2024-03-01,2024,Q1,3,March,2024-03,9,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240302,2024-03-02,2024,Q1,3,March,2024-03,9,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240303,2024-03-03,2024,Q1,3,March,2024-03,9,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240304,2024-03-04,2024,Q1,3,March,2024-03,10,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240305,2024-03-05,2024,Q1,3,March,2024-03,10,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240306,2024-03-06,2024,Q1,3,March,2024-03,10,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240307,2024-03-07,2024,Q1,3,March,2024-03,10,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240308,2024-03-08,2024,Q1,3,March,2024-03,10,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240309,2024-03-09,2024,Q1,3,March,2024-03,10,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240310,2024-03-10,2024,Q1,3,March,2024-03,10,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240311,2024-03-11,2024,Q1,3,March,2024-03,11,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240312,2024-03-12,2024,Q1,3,March,2024-03,11,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240313,2024-03-13,2024,Q1,3,March,2024-03,11,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240314,2024-03-14,2024,Q1,3,March,2024-03,11,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240315,2024-03-15,2024,Q1,3,March,2024-03,11,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240316,2024-03-16,2024,Q1,3,March,2024-03,11,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240317,2024-03-17,2024,Q1,3,March,2024-03,11,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240318,2024-03-18,2024,Q1,3,March,2024-03,12,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240319,2024-03-19,2024,Q1,3,March,2024-03,12,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240320,2024-03-20,2024,Q1,3,March,2024-03,12,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240321,2024-03-21,2024,Q1,3,March,2024-03,12,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240322,2024-03-22,2024,Q1,3,March,2024-03,12,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240323,2024-03-23,2024,Q1,3,March,2024-03,12,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240324,2024-03-24,2024,Q1,3,March,2024-03,12,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240325,2024-03-25,2024,Q1,3,March,2024-03,13,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240326,2024-03-26,2024,Q1,3,March,2024-03,13,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240327,2024-03-27,2024,Q1,3,March,2024-03,13,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240328,2024-03-28,2024,Q1,3,March,2024-03,13,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240329,2024-03-29,2024,Q1,3,March,2024-03,13,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240330,2024-03-30,2024,Q1,3,March,2024-03,13,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240331,2024-03-31,2024,Q1,3,March,2024-03,13,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240401,2024-04-01,2024,Q2,4,April,2024-04,14,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240402,2024-04-02,2024,Q2,4,April,2024-04,14,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240403,2024-04-03,2024,Q2,4,April,2024-04,14,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240404,2024-04-04,2024,Q2,4,April,2024-04,14,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240405,2024-04-05,2024,Q2,4,April,2024-04,14,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240406,2024-04-06,2024,Q2,4,April,2024-04,14,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240407,2024-04-07,2024,Q2,4,April,2024-04,14,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240408,2024-04-08,2024,Q2,4,April,2024-04,15,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240409,2024-04-09,2024,Q2,4,April,2024-04,15,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240410,2024-04-10,2024,Q2,4,April,2024-04,15,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240411,2024-04-11,2024,Q2,4,April,2024-04,15,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240412,2024-04-12,2024,Q2,4,April,2024-04,15,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240413,2024-04-13,2024,Q2,4,April,2024-04,15,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240414,2024-04-14,2024,Q2,4,April,2024-04,15,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240415,2024-04-15,2024,Q2,4,April,2024-04,16,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240416,2024-04-16,2024,Q2,4,April,2024-04,16,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240417,2024-04-17,2024,Q2,4,April,2024-04,16,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240418,2024-04-18,2024,Q2,4,April,2024-04,16,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240419,2024-04-19,2024,Q2,4,April,2024-04,16,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240420,2024-04-20,2024,Q2,4,April,2024-04,16,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240421,2024-04-21,2024,Q2,4,April,2024-04,16,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240422,2024-04-22,2024,Q2,4,April,2024-04,17,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240423,2024-04-23,2024,Q2,4,April,2024-04,17,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240424,2024-04-24,2024,Q2,4,April,2024-04,17,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240425,2024-04-25,2024,Q2,4,April,2024-04,17,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240426,2024-04-26,2024,Q2,4,April,2024-04,17,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240427,2024-04-27,2024,Q2,4,April,2024-04,17,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240428,2024-04-28,2024,Q2,4,April,2024-04,17,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240429,2024-04-29,2024,Q2,4,April,2024-04,18,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240430,2024-04-30,2024,Q2,4,April,2024-04,18,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240501,2024-05-01,2024,Q2,5,May,2024-05,18,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240502,2024-05-02,2024,Q2,5,May,2024-05,18,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240503,2024-05-03,2024,Q2,5,May,2024-05,18,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240504,2024-05-04,2024,Q2,5,May,2024-05,18,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240505,2024-05-05,2024,Q2,5,May,2024-05,18,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240506,2024-05-06,2024,Q2,5,May,2024-05,19,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240507,2024-05-07,2024,Q2,5,May,2024-05,19,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240508,2024-05-08,2024,Q2,5,May,2024-05,19,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240509,2024-05-09,2024,Q2,5,May,2024-05,19,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240510,2024-05-10,2024,Q2,5,May,2024-05,19,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240511,2024-05-11,2024,Q2,5,May,2024-05,19,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240512,2024-05-12,2024,Q2,5,May,2024-05,19,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240513,2024-05-13,2024,Q2,5,May,2024-05,20,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240514,2024-05-14,2024,Q2,5,May,2024-05,20,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240515,2024-05-15,2024,Q2,5,May,2024-05,20,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240516,2024-05-16,2024,Q2,5,May,2024-05,20,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240517,2024-05-17,2024,Q2,5,May,2024-05,20,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240518,2024-05-18,2024,Q2,5,May,2024-05,20,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240519,2024-05-19,2024,Q2,5,May,2024-05,20,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240520,2024-05-20,2024,Q2,5,May,2024-05,21,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240521,2024-05-21,2024,Q2,5,May,2024-05,21,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240522,2024-05-22,2024,Q2,5,May,2024-05,21,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240523,2024-05-23,2024,Q2,5,May,2024-05,21,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240524,2024-05-24,2024,Q2,5,May,2024-05,21,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240525,2024-05-25,2024,Q2,5,May,2024-05,21,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240526,2024-05-26,2024,Q2,5,May,2024-05,21,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20240527,2024-05-27,2024,Q2,5,May,2024-05,22,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240528,2024-05-28,2024,Q2,5,May,2024-05,22,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240529,2024-05-29,2024,Q2,5,May,2024-05,22,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240530,2024-05-30,2024,Q2,5,May,2024-05,22,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240531,2024-05-31,2024,Q2,5,May,2024-05,22,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20240601,2024-06-01,2024,Q2,6,June,2024-06,22,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240602,2024-06-02,2024,Q2,6,June,2024-06,22,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240603,2024-06-03,2024,Q2,6,June,2024-06,23,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240604,2024-06-04,2024,Q2,6,June,2024-06,23,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240605,2024-06-05,2024,Q2,6,June,2024-06,23,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240606,2024-06-06,2024,Q2,6,June,2024-06,23,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240607,2024-06-07,2024,Q2,6,June,2024-06,23,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20240608,2024-06-08,2024,Q2,6,June,2024-06,23,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20240609,2024-06-09,2024,Q2,6,June,2024-06,23,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20240610,2024-06-10,2024,Q2,6,June,2024-06,24,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20240611,2024-06-11,2024,Q2,6,June,2024-06,24,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20240612,2024-06-12,2024,Q2,6,June,2024-06,24,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20240613,2024-06-13,2024,Q2,6,June,2024-06,24,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20240614,2024-06-14,2024,Q2,6,June,2024-06,24,Friday,5,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240615,2024-06-15,2024,Q2,6,June,2024-06,24,Saturday,6,1,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240616,2024-06-16,2024,Q2,6,June,2024-06,24,Sunday,7,1,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240617,2024-06-17,2024,Q2,6,June,2024-06,25,Monday,1,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240618,2024-06-18,2024,Q2,6,June,2024-06,25,Tuesday,2,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240619,2024-06-19,2024,Q2,6,June,2024-06,25,Wednesday,3,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240620,2024-06-20,2024,Q2,6,June,2024-06,25,Thursday,4,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240621,2024-06-21,2024,Q2,6,June,2024-06,25,Friday,5,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240622,2024-06-22,2024,Q2,6,June,2024-06,25,Saturday,6,1,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240623,2024-06-23,2024,Q2,6,June,2024-06,25,Sunday,7,1,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240624,2024-06-24,2024,Q2,6,June,2024-06,26,Monday,1,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240625,2024-06-25,2024,Q2,6,June,2024-06,26,Tuesday,2,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240626,2024-06-26,2024,Q2,6,June,2024-06,26,Wednesday,3,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240627,2024-06-27,2024,Q2,6,June,2024-06,26,Thursday,4,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240628,2024-06-28,2024,Q2,6,June,2024-06,26,Friday,5,0,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240629,2024-06-29,2024,Q2,6,June,2024-06,26,Saturday,6,1,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240630,2024-06-30,2024,Q2,6,June,2024-06,26,Sunday,7,1,Continental Championship 2024,Continental Championship 2024,1,0,0,0
+20240701,2024-07-01,2024,Q3,7,July,2024-07,27,Monday,1,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240702,2024-07-02,2024,Q3,7,July,2024-07,27,Tuesday,2,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240703,2024-07-03,2024,Q3,7,July,2024-07,27,Wednesday,3,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240704,2024-07-04,2024,Q3,7,July,2024-07,27,Thursday,4,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240705,2024-07-05,2024,Q3,7,July,2024-07,27,Friday,5,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240706,2024-07-06,2024,Q3,7,July,2024-07,27,Saturday,6,1,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240707,2024-07-07,2024,Q3,7,July,2024-07,27,Sunday,7,1,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240708,2024-07-08,2024,Q3,7,July,2024-07,28,Monday,1,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240709,2024-07-09,2024,Q3,7,July,2024-07,28,Tuesday,2,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240710,2024-07-10,2024,Q3,7,July,2024-07,28,Wednesday,3,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240711,2024-07-11,2024,Q3,7,July,2024-07,28,Thursday,4,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240712,2024-07-12,2024,Q3,7,July,2024-07,28,Friday,5,0,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240713,2024-07-13,2024,Q3,7,July,2024-07,28,Saturday,6,1,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240714,2024-07-14,2024,Q3,7,July,2024-07,28,Sunday,7,1,Continental Championship 2024,Continental Championship 2024,1,1,0,0
+20240715,2024-07-15,2024,Q3,7,July,2024-07,29,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240716,2024-07-16,2024,Q3,7,July,2024-07,29,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240717,2024-07-17,2024,Q3,7,July,2024-07,29,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240718,2024-07-18,2024,Q3,7,July,2024-07,29,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20240719,2024-07-19,2024,Q3,7,July,2024-07,29,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20240720,2024-07-20,2024,Q3,7,July,2024-07,29,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20240721,2024-07-21,2024,Q3,7,July,2024-07,29,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20240722,2024-07-22,2024,Q3,7,July,2024-07,30,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240723,2024-07-23,2024,Q3,7,July,2024-07,30,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240724,2024-07-24,2024,Q3,7,July,2024-07,30,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240725,2024-07-25,2024,Q3,7,July,2024-07,30,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20240726,2024-07-26,2024,Q3,7,July,2024-07,30,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20240727,2024-07-27,2024,Q3,7,July,2024-07,30,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20240728,2024-07-28,2024,Q3,7,July,2024-07,30,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20240729,2024-07-29,2024,Q3,7,July,2024-07,31,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20240730,2024-07-30,2024,Q3,7,July,2024-07,31,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20240731,2024-07-31,2024,Q3,7,July,2024-07,31,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20240801,2024-08-01,2024,Q3,8,August,2024-08,31,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240802,2024-08-02,2024,Q3,8,August,2024-08,31,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240803,2024-08-03,2024,Q3,8,August,2024-08,31,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240804,2024-08-04,2024,Q3,8,August,2024-08,31,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240805,2024-08-05,2024,Q3,8,August,2024-08,32,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240806,2024-08-06,2024,Q3,8,August,2024-08,32,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240807,2024-08-07,2024,Q3,8,August,2024-08,32,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240808,2024-08-08,2024,Q3,8,August,2024-08,32,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240809,2024-08-09,2024,Q3,8,August,2024-08,32,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240810,2024-08-10,2024,Q3,8,August,2024-08,32,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240811,2024-08-11,2024,Q3,8,August,2024-08,32,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240812,2024-08-12,2024,Q3,8,August,2024-08,33,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240813,2024-08-13,2024,Q3,8,August,2024-08,33,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240814,2024-08-14,2024,Q3,8,August,2024-08,33,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240815,2024-08-15,2024,Q3,8,August,2024-08,33,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240816,2024-08-16,2024,Q3,8,August,2024-08,33,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240817,2024-08-17,2024,Q3,8,August,2024-08,33,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240818,2024-08-18,2024,Q3,8,August,2024-08,33,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240819,2024-08-19,2024,Q3,8,August,2024-08,34,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240820,2024-08-20,2024,Q3,8,August,2024-08,34,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240821,2024-08-21,2024,Q3,8,August,2024-08,34,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240822,2024-08-22,2024,Q3,8,August,2024-08,34,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240823,2024-08-23,2024,Q3,8,August,2024-08,34,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240824,2024-08-24,2024,Q3,8,August,2024-08,34,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240825,2024-08-25,2024,Q3,8,August,2024-08,34,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240826,2024-08-26,2024,Q3,8,August,2024-08,35,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240827,2024-08-27,2024,Q3,8,August,2024-08,35,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240828,2024-08-28,2024,Q3,8,August,2024-08,35,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240829,2024-08-29,2024,Q3,8,August,2024-08,35,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240830,2024-08-30,2024,Q3,8,August,2024-08,35,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240831,2024-08-31,2024,Q3,8,August,2024-08,35,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20240901,2024-09-01,2024,Q3,9,September,2024-09,35,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240902,2024-09-02,2024,Q3,9,September,2024-09,36,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240903,2024-09-03,2024,Q3,9,September,2024-09,36,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240904,2024-09-04,2024,Q3,9,September,2024-09,36,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240905,2024-09-05,2024,Q3,9,September,2024-09,36,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240906,2024-09-06,2024,Q3,9,September,2024-09,36,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240907,2024-09-07,2024,Q3,9,September,2024-09,36,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240908,2024-09-08,2024,Q3,9,September,2024-09,36,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240909,2024-09-09,2024,Q3,9,September,2024-09,37,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240910,2024-09-10,2024,Q3,9,September,2024-09,37,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240911,2024-09-11,2024,Q3,9,September,2024-09,37,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240912,2024-09-12,2024,Q3,9,September,2024-09,37,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240913,2024-09-13,2024,Q3,9,September,2024-09,37,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240914,2024-09-14,2024,Q3,9,September,2024-09,37,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240915,2024-09-15,2024,Q3,9,September,2024-09,37,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240916,2024-09-16,2024,Q3,9,September,2024-09,38,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240917,2024-09-17,2024,Q3,9,September,2024-09,38,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240918,2024-09-18,2024,Q3,9,September,2024-09,38,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240919,2024-09-19,2024,Q3,9,September,2024-09,38,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240920,2024-09-20,2024,Q3,9,September,2024-09,38,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240921,2024-09-21,2024,Q3,9,September,2024-09,38,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240922,2024-09-22,2024,Q3,9,September,2024-09,38,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240923,2024-09-23,2024,Q3,9,September,2024-09,39,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240924,2024-09-24,2024,Q3,9,September,2024-09,39,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240925,2024-09-25,2024,Q3,9,September,2024-09,39,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240926,2024-09-26,2024,Q3,9,September,2024-09,39,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240927,2024-09-27,2024,Q3,9,September,2024-09,39,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240928,2024-09-28,2024,Q3,9,September,2024-09,39,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240929,2024-09-29,2024,Q3,9,September,2024-09,39,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20240930,2024-09-30,2024,Q3,9,September,2024-09,40,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20241001,2024-10-01,2024,Q4,10,October,2024-10,40,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20241002,2024-10-02,2024,Q4,10,October,2024-10,40,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20241003,2024-10-03,2024,Q4,10,October,2024-10,40,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20241004,2024-10-04,2024,Q4,10,October,2024-10,40,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20241005,2024-10-05,2024,Q4,10,October,2024-10,40,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20241006,2024-10-06,2024,Q4,10,October,2024-10,40,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20241007,2024-10-07,2024,Q4,10,October,2024-10,41,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20241008,2024-10-08,2024,Q4,10,October,2024-10,41,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20241009,2024-10-09,2024,Q4,10,October,2024-10,41,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20241010,2024-10-10,2024,Q4,10,October,2024-10,41,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20241011,2024-10-11,2024,Q4,10,October,2024-10,41,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20241012,2024-10-12,2024,Q4,10,October,2024-10,41,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20241013,2024-10-13,2024,Q4,10,October,2024-10,41,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20241014,2024-10-14,2024,Q4,10,October,2024-10,42,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20241015,2024-10-15,2024,Q4,10,October,2024-10,42,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20241016,2024-10-16,2024,Q4,10,October,2024-10,42,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20241017,2024-10-17,2024,Q4,10,October,2024-10,42,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20241018,2024-10-18,2024,Q4,10,October,2024-10,42,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20241019,2024-10-19,2024,Q4,10,October,2024-10,42,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20241020,2024-10-20,2024,Q4,10,October,2024-10,42,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20241021,2024-10-21,2024,Q4,10,October,2024-10,43,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20241022,2024-10-22,2024,Q4,10,October,2024-10,43,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20241023,2024-10-23,2024,Q4,10,October,2024-10,43,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20241024,2024-10-24,2024,Q4,10,October,2024-10,43,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20241025,2024-10-25,2024,Q4,10,October,2024-10,43,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20241026,2024-10-26,2024,Q4,10,October,2024-10,43,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20241027,2024-10-27,2024,Q4,10,October,2024-10,43,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20241028,2024-10-28,2024,Q4,10,October,2024-10,44,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20241029,2024-10-29,2024,Q4,10,October,2024-10,44,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20241030,2024-10-30,2024,Q4,10,October,2024-10,44,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20241031,2024-10-31,2024,Q4,10,October,2024-10,44,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20241101,2024-11-01,2024,Q4,11,November,2024-11,44,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241102,2024-11-02,2024,Q4,11,November,2024-11,44,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241103,2024-11-03,2024,Q4,11,November,2024-11,44,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241104,2024-11-04,2024,Q4,11,November,2024-11,45,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241105,2024-11-05,2024,Q4,11,November,2024-11,45,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241106,2024-11-06,2024,Q4,11,November,2024-11,45,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241107,2024-11-07,2024,Q4,11,November,2024-11,45,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241108,2024-11-08,2024,Q4,11,November,2024-11,45,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241109,2024-11-09,2024,Q4,11,November,2024-11,45,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241110,2024-11-10,2024,Q4,11,November,2024-11,45,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241111,2024-11-11,2024,Q4,11,November,2024-11,46,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241112,2024-11-12,2024,Q4,11,November,2024-11,46,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241113,2024-11-13,2024,Q4,11,November,2024-11,46,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241114,2024-11-14,2024,Q4,11,November,2024-11,46,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241115,2024-11-15,2024,Q4,11,November,2024-11,46,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241116,2024-11-16,2024,Q4,11,November,2024-11,46,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241117,2024-11-17,2024,Q4,11,November,2024-11,46,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241118,2024-11-18,2024,Q4,11,November,2024-11,47,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241119,2024-11-19,2024,Q4,11,November,2024-11,47,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241120,2024-11-20,2024,Q4,11,November,2024-11,47,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241121,2024-11-21,2024,Q4,11,November,2024-11,47,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241122,2024-11-22,2024,Q4,11,November,2024-11,47,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241123,2024-11-23,2024,Q4,11,November,2024-11,47,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241124,2024-11-24,2024,Q4,11,November,2024-11,47,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241125,2024-11-25,2024,Q4,11,November,2024-11,48,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241126,2024-11-26,2024,Q4,11,November,2024-11,48,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241127,2024-11-27,2024,Q4,11,November,2024-11,48,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241128,2024-11-28,2024,Q4,11,November,2024-11,48,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241129,2024-11-29,2024,Q4,11,November,2024-11,48,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241130,2024-11-30,2024,Q4,11,November,2024-11,48,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241201,2024-12-01,2024,Q4,12,December,2024-12,48,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241202,2024-12-02,2024,Q4,12,December,2024-12,49,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241203,2024-12-03,2024,Q4,12,December,2024-12,49,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241204,2024-12-04,2024,Q4,12,December,2024-12,49,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241205,2024-12-05,2024,Q4,12,December,2024-12,49,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241206,2024-12-06,2024,Q4,12,December,2024-12,49,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241207,2024-12-07,2024,Q4,12,December,2024-12,49,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241208,2024-12-08,2024,Q4,12,December,2024-12,49,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241209,2024-12-09,2024,Q4,12,December,2024-12,50,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241210,2024-12-10,2024,Q4,12,December,2024-12,50,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241211,2024-12-11,2024,Q4,12,December,2024-12,50,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241212,2024-12-12,2024,Q4,12,December,2024-12,50,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241213,2024-12-13,2024,Q4,12,December,2024-12,50,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241214,2024-12-14,2024,Q4,12,December,2024-12,50,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241215,2024-12-15,2024,Q4,12,December,2024-12,50,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241216,2024-12-16,2024,Q4,12,December,2024-12,51,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241217,2024-12-17,2024,Q4,12,December,2024-12,51,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241218,2024-12-18,2024,Q4,12,December,2024-12,51,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241219,2024-12-19,2024,Q4,12,December,2024-12,51,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241220,2024-12-20,2024,Q4,12,December,2024-12,51,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241221,2024-12-21,2024,Q4,12,December,2024-12,51,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241222,2024-12-22,2024,Q4,12,December,2024-12,51,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241223,2024-12-23,2024,Q4,12,December,2024-12,52,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241224,2024-12-24,2024,Q4,12,December,2024-12,52,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241225,2024-12-25,2024,Q4,12,December,2024-12,52,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241226,2024-12-26,2024,Q4,12,December,2024-12,52,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241227,2024-12-27,2024,Q4,12,December,2024-12,52,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241228,2024-12-28,2024,Q4,12,December,2024-12,52,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241229,2024-12-29,2024,Q4,12,December,2024-12,52,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241230,2024-12-30,2024,Q4,12,December,2024-12,1,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20241231,2024-12-31,2024,Q4,12,December,2024-12,1,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20250101,2025-01-01,2025,Q1,1,January,2025-01,1,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250102,2025-01-02,2025,Q1,1,January,2025-01,1,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250103,2025-01-03,2025,Q1,1,January,2025-01,1,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250104,2025-01-04,2025,Q1,1,January,2025-01,1,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250105,2025-01-05,2025,Q1,1,January,2025-01,1,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250106,2025-01-06,2025,Q1,1,January,2025-01,2,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250107,2025-01-07,2025,Q1,1,January,2025-01,2,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250108,2025-01-08,2025,Q1,1,January,2025-01,2,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250109,2025-01-09,2025,Q1,1,January,2025-01,2,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250110,2025-01-10,2025,Q1,1,January,2025-01,2,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250111,2025-01-11,2025,Q1,1,January,2025-01,2,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250112,2025-01-12,2025,Q1,1,January,2025-01,2,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250113,2025-01-13,2025,Q1,1,January,2025-01,3,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250114,2025-01-14,2025,Q1,1,January,2025-01,3,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250115,2025-01-15,2025,Q1,1,January,2025-01,3,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250116,2025-01-16,2025,Q1,1,January,2025-01,3,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250117,2025-01-17,2025,Q1,1,January,2025-01,3,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250118,2025-01-18,2025,Q1,1,January,2025-01,3,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250119,2025-01-19,2025,Q1,1,January,2025-01,3,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250120,2025-01-20,2025,Q1,1,January,2025-01,4,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250121,2025-01-21,2025,Q1,1,January,2025-01,4,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250122,2025-01-22,2025,Q1,1,January,2025-01,4,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250123,2025-01-23,2025,Q1,1,January,2025-01,4,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250124,2025-01-24,2025,Q1,1,January,2025-01,4,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250125,2025-01-25,2025,Q1,1,January,2025-01,4,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250126,2025-01-26,2025,Q1,1,January,2025-01,4,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250127,2025-01-27,2025,Q1,1,January,2025-01,5,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250128,2025-01-28,2025,Q1,1,January,2025-01,5,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250129,2025-01-29,2025,Q1,1,January,2025-01,5,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250130,2025-01-30,2025,Q1,1,January,2025-01,5,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250131,2025-01-31,2025,Q1,1,January,2025-01,5,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250201,2025-02-01,2025,Q1,2,February,2025-02,5,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250202,2025-02-02,2025,Q1,2,February,2025-02,5,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250203,2025-02-03,2025,Q1,2,February,2025-02,6,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250204,2025-02-04,2025,Q1,2,February,2025-02,6,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250205,2025-02-05,2025,Q1,2,February,2025-02,6,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250206,2025-02-06,2025,Q1,2,February,2025-02,6,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250207,2025-02-07,2025,Q1,2,February,2025-02,6,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250208,2025-02-08,2025,Q1,2,February,2025-02,6,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250209,2025-02-09,2025,Q1,2,February,2025-02,6,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250210,2025-02-10,2025,Q1,2,February,2025-02,7,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250211,2025-02-11,2025,Q1,2,February,2025-02,7,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250212,2025-02-12,2025,Q1,2,February,2025-02,7,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250213,2025-02-13,2025,Q1,2,February,2025-02,7,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250214,2025-02-14,2025,Q1,2,February,2025-02,7,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250215,2025-02-15,2025,Q1,2,February,2025-02,7,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250216,2025-02-16,2025,Q1,2,February,2025-02,7,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250217,2025-02-17,2025,Q1,2,February,2025-02,8,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250218,2025-02-18,2025,Q1,2,February,2025-02,8,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250219,2025-02-19,2025,Q1,2,February,2025-02,8,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250220,2025-02-20,2025,Q1,2,February,2025-02,8,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250221,2025-02-21,2025,Q1,2,February,2025-02,8,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250222,2025-02-22,2025,Q1,2,February,2025-02,8,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250223,2025-02-23,2025,Q1,2,February,2025-02,8,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250224,2025-02-24,2025,Q1,2,February,2025-02,9,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250225,2025-02-25,2025,Q1,2,February,2025-02,9,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250226,2025-02-26,2025,Q1,2,February,2025-02,9,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250227,2025-02-27,2025,Q1,2,February,2025-02,9,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250228,2025-02-28,2025,Q1,2,February,2025-02,9,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250301,2025-03-01,2025,Q1,3,March,2025-03,9,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250302,2025-03-02,2025,Q1,3,March,2025-03,9,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250303,2025-03-03,2025,Q1,3,March,2025-03,10,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250304,2025-03-04,2025,Q1,3,March,2025-03,10,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250305,2025-03-05,2025,Q1,3,March,2025-03,10,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250306,2025-03-06,2025,Q1,3,March,2025-03,10,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250307,2025-03-07,2025,Q1,3,March,2025-03,10,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250308,2025-03-08,2025,Q1,3,March,2025-03,10,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250309,2025-03-09,2025,Q1,3,March,2025-03,10,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250310,2025-03-10,2025,Q1,3,March,2025-03,11,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250311,2025-03-11,2025,Q1,3,March,2025-03,11,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250312,2025-03-12,2025,Q1,3,March,2025-03,11,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250313,2025-03-13,2025,Q1,3,March,2025-03,11,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250314,2025-03-14,2025,Q1,3,March,2025-03,11,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250315,2025-03-15,2025,Q1,3,March,2025-03,11,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250316,2025-03-16,2025,Q1,3,March,2025-03,11,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250317,2025-03-17,2025,Q1,3,March,2025-03,12,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250318,2025-03-18,2025,Q1,3,March,2025-03,12,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250319,2025-03-19,2025,Q1,3,March,2025-03,12,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250320,2025-03-20,2025,Q1,3,March,2025-03,12,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250321,2025-03-21,2025,Q1,3,March,2025-03,12,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250322,2025-03-22,2025,Q1,3,March,2025-03,12,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250323,2025-03-23,2025,Q1,3,March,2025-03,12,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250324,2025-03-24,2025,Q1,3,March,2025-03,13,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250325,2025-03-25,2025,Q1,3,March,2025-03,13,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250326,2025-03-26,2025,Q1,3,March,2025-03,13,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250327,2025-03-27,2025,Q1,3,March,2025-03,13,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250328,2025-03-28,2025,Q1,3,March,2025-03,13,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250329,2025-03-29,2025,Q1,3,March,2025-03,13,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250330,2025-03-30,2025,Q1,3,March,2025-03,13,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250331,2025-03-31,2025,Q1,3,March,2025-03,14,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250401,2025-04-01,2025,Q2,4,April,2025-04,14,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250402,2025-04-02,2025,Q2,4,April,2025-04,14,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250403,2025-04-03,2025,Q2,4,April,2025-04,14,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250404,2025-04-04,2025,Q2,4,April,2025-04,14,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250405,2025-04-05,2025,Q2,4,April,2025-04,14,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250406,2025-04-06,2025,Q2,4,April,2025-04,14,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250407,2025-04-07,2025,Q2,4,April,2025-04,15,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250408,2025-04-08,2025,Q2,4,April,2025-04,15,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250409,2025-04-09,2025,Q2,4,April,2025-04,15,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250410,2025-04-10,2025,Q2,4,April,2025-04,15,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250411,2025-04-11,2025,Q2,4,April,2025-04,15,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250412,2025-04-12,2025,Q2,4,April,2025-04,15,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250413,2025-04-13,2025,Q2,4,April,2025-04,15,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250414,2025-04-14,2025,Q2,4,April,2025-04,16,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250415,2025-04-15,2025,Q2,4,April,2025-04,16,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250416,2025-04-16,2025,Q2,4,April,2025-04,16,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250417,2025-04-17,2025,Q2,4,April,2025-04,16,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250418,2025-04-18,2025,Q2,4,April,2025-04,16,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250419,2025-04-19,2025,Q2,4,April,2025-04,16,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250420,2025-04-20,2025,Q2,4,April,2025-04,16,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250421,2025-04-21,2025,Q2,4,April,2025-04,17,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250422,2025-04-22,2025,Q2,4,April,2025-04,17,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250423,2025-04-23,2025,Q2,4,April,2025-04,17,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250424,2025-04-24,2025,Q2,4,April,2025-04,17,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250425,2025-04-25,2025,Q2,4,April,2025-04,17,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250426,2025-04-26,2025,Q2,4,April,2025-04,17,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250427,2025-04-27,2025,Q2,4,April,2025-04,17,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250428,2025-04-28,2025,Q2,4,April,2025-04,18,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250429,2025-04-29,2025,Q2,4,April,2025-04,18,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250430,2025-04-30,2025,Q2,4,April,2025-04,18,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250501,2025-05-01,2025,Q2,5,May,2025-05,18,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250502,2025-05-02,2025,Q2,5,May,2025-05,18,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250503,2025-05-03,2025,Q2,5,May,2025-05,18,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250504,2025-05-04,2025,Q2,5,May,2025-05,18,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250505,2025-05-05,2025,Q2,5,May,2025-05,19,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250506,2025-05-06,2025,Q2,5,May,2025-05,19,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250507,2025-05-07,2025,Q2,5,May,2025-05,19,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250508,2025-05-08,2025,Q2,5,May,2025-05,19,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250509,2025-05-09,2025,Q2,5,May,2025-05,19,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250510,2025-05-10,2025,Q2,5,May,2025-05,19,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250511,2025-05-11,2025,Q2,5,May,2025-05,19,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250512,2025-05-12,2025,Q2,5,May,2025-05,20,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250513,2025-05-13,2025,Q2,5,May,2025-05,20,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250514,2025-05-14,2025,Q2,5,May,2025-05,20,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250515,2025-05-15,2025,Q2,5,May,2025-05,20,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250516,2025-05-16,2025,Q2,5,May,2025-05,20,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250517,2025-05-17,2025,Q2,5,May,2025-05,20,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250518,2025-05-18,2025,Q2,5,May,2025-05,20,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250519,2025-05-19,2025,Q2,5,May,2025-05,21,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250520,2025-05-20,2025,Q2,5,May,2025-05,21,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250521,2025-05-21,2025,Q2,5,May,2025-05,21,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250522,2025-05-22,2025,Q2,5,May,2025-05,21,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250523,2025-05-23,2025,Q2,5,May,2025-05,21,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250524,2025-05-24,2025,Q2,5,May,2025-05,21,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250525,2025-05-25,2025,Q2,5,May,2025-05,21,Sunday,7,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250526,2025-05-26,2025,Q2,5,May,2025-05,22,Monday,1,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250527,2025-05-27,2025,Q2,5,May,2025-05,22,Tuesday,2,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250528,2025-05-28,2025,Q2,5,May,2025-05,22,Wednesday,3,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250529,2025-05-29,2025,Q2,5,May,2025-05,22,Thursday,4,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250530,2025-05-30,2025,Q2,5,May,2025-05,22,Friday,5,0,Finals Run-In,Finals and Trophies,0,0,0,0
+20250531,2025-05-31,2025,Q2,5,May,2025-05,22,Saturday,6,1,Finals Run-In,Finals and Trophies,0,0,0,0
+20250601,2025-06-01,2025,Q2,6,June,2025-06,22,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250602,2025-06-02,2025,Q2,6,June,2025-06,23,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250603,2025-06-03,2025,Q2,6,June,2025-06,23,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250604,2025-06-04,2025,Q2,6,June,2025-06,23,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250605,2025-06-05,2025,Q2,6,June,2025-06,23,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250606,2025-06-06,2025,Q2,6,June,2025-06,23,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250607,2025-06-07,2025,Q2,6,June,2025-06,23,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250608,2025-06-08,2025,Q2,6,June,2025-06,23,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250609,2025-06-09,2025,Q2,6,June,2025-06,24,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250610,2025-06-10,2025,Q2,6,June,2025-06,24,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250611,2025-06-11,2025,Q2,6,June,2025-06,24,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250612,2025-06-12,2025,Q2,6,June,2025-06,24,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250613,2025-06-13,2025,Q2,6,June,2025-06,24,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250614,2025-06-14,2025,Q2,6,June,2025-06,24,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250615,2025-06-15,2025,Q2,6,June,2025-06,24,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250616,2025-06-16,2025,Q2,6,June,2025-06,25,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250617,2025-06-17,2025,Q2,6,June,2025-06,25,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250618,2025-06-18,2025,Q2,6,June,2025-06,25,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250619,2025-06-19,2025,Q2,6,June,2025-06,25,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250620,2025-06-20,2025,Q2,6,June,2025-06,25,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250621,2025-06-21,2025,Q2,6,June,2025-06,25,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250622,2025-06-22,2025,Q2,6,June,2025-06,25,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250623,2025-06-23,2025,Q2,6,June,2025-06,26,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250624,2025-06-24,2025,Q2,6,June,2025-06,26,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20250625,2025-06-25,2025,Q2,6,June,2025-06,26,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20250626,2025-06-26,2025,Q2,6,June,2025-06,26,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20250627,2025-06-27,2025,Q2,6,June,2025-06,26,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20250628,2025-06-28,2025,Q2,6,June,2025-06,26,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20250629,2025-06-29,2025,Q2,6,June,2025-06,26,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20250630,2025-06-30,2025,Q2,6,June,2025-06,27,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20250701,2025-07-01,2025,Q3,7,July,2025-07,27,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250702,2025-07-02,2025,Q3,7,July,2025-07,27,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250703,2025-07-03,2025,Q3,7,July,2025-07,27,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250704,2025-07-04,2025,Q3,7,July,2025-07,27,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250705,2025-07-05,2025,Q3,7,July,2025-07,27,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250706,2025-07-06,2025,Q3,7,July,2025-07,27,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250707,2025-07-07,2025,Q3,7,July,2025-07,28,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250708,2025-07-08,2025,Q3,7,July,2025-07,28,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250709,2025-07-09,2025,Q3,7,July,2025-07,28,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250710,2025-07-10,2025,Q3,7,July,2025-07,28,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250711,2025-07-11,2025,Q3,7,July,2025-07,28,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250712,2025-07-12,2025,Q3,7,July,2025-07,28,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250713,2025-07-13,2025,Q3,7,July,2025-07,28,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250714,2025-07-14,2025,Q3,7,July,2025-07,29,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250715,2025-07-15,2025,Q3,7,July,2025-07,29,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250716,2025-07-16,2025,Q3,7,July,2025-07,29,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250717,2025-07-17,2025,Q3,7,July,2025-07,29,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250718,2025-07-18,2025,Q3,7,July,2025-07,29,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250719,2025-07-19,2025,Q3,7,July,2025-07,29,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250720,2025-07-20,2025,Q3,7,July,2025-07,29,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250721,2025-07-21,2025,Q3,7,July,2025-07,30,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250722,2025-07-22,2025,Q3,7,July,2025-07,30,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250723,2025-07-23,2025,Q3,7,July,2025-07,30,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250724,2025-07-24,2025,Q3,7,July,2025-07,30,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250725,2025-07-25,2025,Q3,7,July,2025-07,30,Friday,5,0,Regular Season,Regular Trading,0,1,0,0
+20250726,2025-07-26,2025,Q3,7,July,2025-07,30,Saturday,6,1,Regular Season,Regular Trading,0,1,0,0
+20250727,2025-07-27,2025,Q3,7,July,2025-07,30,Sunday,7,1,Regular Season,Regular Trading,0,1,0,0
+20250728,2025-07-28,2025,Q3,7,July,2025-07,31,Monday,1,0,Regular Season,Regular Trading,0,1,0,0
+20250729,2025-07-29,2025,Q3,7,July,2025-07,31,Tuesday,2,0,Regular Season,Regular Trading,0,1,0,0
+20250730,2025-07-30,2025,Q3,7,July,2025-07,31,Wednesday,3,0,Regular Season,Regular Trading,0,1,0,0
+20250731,2025-07-31,2025,Q3,7,July,2025-07,31,Thursday,4,0,Regular Season,Regular Trading,0,1,0,0
+20250801,2025-08-01,2025,Q3,8,August,2025-08,31,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250802,2025-08-02,2025,Q3,8,August,2025-08,31,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250803,2025-08-03,2025,Q3,8,August,2025-08,31,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250804,2025-08-04,2025,Q3,8,August,2025-08,32,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250805,2025-08-05,2025,Q3,8,August,2025-08,32,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250806,2025-08-06,2025,Q3,8,August,2025-08,32,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250807,2025-08-07,2025,Q3,8,August,2025-08,32,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250808,2025-08-08,2025,Q3,8,August,2025-08,32,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250809,2025-08-09,2025,Q3,8,August,2025-08,32,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250810,2025-08-10,2025,Q3,8,August,2025-08,32,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250811,2025-08-11,2025,Q3,8,August,2025-08,33,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250812,2025-08-12,2025,Q3,8,August,2025-08,33,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250813,2025-08-13,2025,Q3,8,August,2025-08,33,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250814,2025-08-14,2025,Q3,8,August,2025-08,33,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250815,2025-08-15,2025,Q3,8,August,2025-08,33,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250816,2025-08-16,2025,Q3,8,August,2025-08,33,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250817,2025-08-17,2025,Q3,8,August,2025-08,33,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250818,2025-08-18,2025,Q3,8,August,2025-08,34,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250819,2025-08-19,2025,Q3,8,August,2025-08,34,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250820,2025-08-20,2025,Q3,8,August,2025-08,34,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250821,2025-08-21,2025,Q3,8,August,2025-08,34,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250822,2025-08-22,2025,Q3,8,August,2025-08,34,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250823,2025-08-23,2025,Q3,8,August,2025-08,34,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250824,2025-08-24,2025,Q3,8,August,2025-08,34,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250825,2025-08-25,2025,Q3,8,August,2025-08,35,Monday,1,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250826,2025-08-26,2025,Q3,8,August,2025-08,35,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250827,2025-08-27,2025,Q3,8,August,2025-08,35,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250828,2025-08-28,2025,Q3,8,August,2025-08,35,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250829,2025-08-29,2025,Q3,8,August,2025-08,35,Friday,5,0,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250830,2025-08-30,2025,Q3,8,August,2025-08,35,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250831,2025-08-31,2025,Q3,8,August,2025-08,35,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,1,0,1
+20250901,2025-09-01,2025,Q3,9,September,2025-09,36,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250902,2025-09-02,2025,Q3,9,September,2025-09,36,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250903,2025-09-03,2025,Q3,9,September,2025-09,36,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250904,2025-09-04,2025,Q3,9,September,2025-09,36,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250905,2025-09-05,2025,Q3,9,September,2025-09,36,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250906,2025-09-06,2025,Q3,9,September,2025-09,36,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250907,2025-09-07,2025,Q3,9,September,2025-09,36,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250908,2025-09-08,2025,Q3,9,September,2025-09,37,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250909,2025-09-09,2025,Q3,9,September,2025-09,37,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250910,2025-09-10,2025,Q3,9,September,2025-09,37,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250911,2025-09-11,2025,Q3,9,September,2025-09,37,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250912,2025-09-12,2025,Q3,9,September,2025-09,37,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250913,2025-09-13,2025,Q3,9,September,2025-09,37,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250914,2025-09-14,2025,Q3,9,September,2025-09,37,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250915,2025-09-15,2025,Q3,9,September,2025-09,38,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250916,2025-09-16,2025,Q3,9,September,2025-09,38,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250917,2025-09-17,2025,Q3,9,September,2025-09,38,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250918,2025-09-18,2025,Q3,9,September,2025-09,38,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250919,2025-09-19,2025,Q3,9,September,2025-09,38,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250920,2025-09-20,2025,Q3,9,September,2025-09,38,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250921,2025-09-21,2025,Q3,9,September,2025-09,38,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250922,2025-09-22,2025,Q3,9,September,2025-09,39,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250923,2025-09-23,2025,Q3,9,September,2025-09,39,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250924,2025-09-24,2025,Q3,9,September,2025-09,39,Wednesday,3,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250925,2025-09-25,2025,Q3,9,September,2025-09,39,Thursday,4,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250926,2025-09-26,2025,Q3,9,September,2025-09,39,Friday,5,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250927,2025-09-27,2025,Q3,9,September,2025-09,39,Saturday,6,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250928,2025-09-28,2025,Q3,9,September,2025-09,39,Sunday,7,1,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250929,2025-09-29,2025,Q3,9,September,2025-09,40,Monday,1,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20250930,2025-09-30,2025,Q3,9,September,2025-09,40,Tuesday,2,0,Kit Launch Season,League Start and New Kits,0,0,0,1
+20251001,2025-10-01,2025,Q4,10,October,2025-10,40,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20251002,2025-10-02,2025,Q4,10,October,2025-10,40,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20251003,2025-10-03,2025,Q4,10,October,2025-10,40,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20251004,2025-10-04,2025,Q4,10,October,2025-10,40,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20251005,2025-10-05,2025,Q4,10,October,2025-10,40,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20251006,2025-10-06,2025,Q4,10,October,2025-10,41,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20251007,2025-10-07,2025,Q4,10,October,2025-10,41,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20251008,2025-10-08,2025,Q4,10,October,2025-10,41,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20251009,2025-10-09,2025,Q4,10,October,2025-10,41,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20251010,2025-10-10,2025,Q4,10,October,2025-10,41,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20251011,2025-10-11,2025,Q4,10,October,2025-10,41,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20251012,2025-10-12,2025,Q4,10,October,2025-10,41,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20251013,2025-10-13,2025,Q4,10,October,2025-10,42,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20251014,2025-10-14,2025,Q4,10,October,2025-10,42,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20251015,2025-10-15,2025,Q4,10,October,2025-10,42,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20251016,2025-10-16,2025,Q4,10,October,2025-10,42,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20251017,2025-10-17,2025,Q4,10,October,2025-10,42,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20251018,2025-10-18,2025,Q4,10,October,2025-10,42,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20251019,2025-10-19,2025,Q4,10,October,2025-10,42,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20251020,2025-10-20,2025,Q4,10,October,2025-10,43,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20251021,2025-10-21,2025,Q4,10,October,2025-10,43,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20251022,2025-10-22,2025,Q4,10,October,2025-10,43,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20251023,2025-10-23,2025,Q4,10,October,2025-10,43,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20251024,2025-10-24,2025,Q4,10,October,2025-10,43,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20251025,2025-10-25,2025,Q4,10,October,2025-10,43,Saturday,6,1,Regular Season,Regular Trading,0,0,0,0
+20251026,2025-10-26,2025,Q4,10,October,2025-10,43,Sunday,7,1,Regular Season,Regular Trading,0,0,0,0
+20251027,2025-10-27,2025,Q4,10,October,2025-10,44,Monday,1,0,Regular Season,Regular Trading,0,0,0,0
+20251028,2025-10-28,2025,Q4,10,October,2025-10,44,Tuesday,2,0,Regular Season,Regular Trading,0,0,0,0
+20251029,2025-10-29,2025,Q4,10,October,2025-10,44,Wednesday,3,0,Regular Season,Regular Trading,0,0,0,0
+20251030,2025-10-30,2025,Q4,10,October,2025-10,44,Thursday,4,0,Regular Season,Regular Trading,0,0,0,0
+20251031,2025-10-31,2025,Q4,10,October,2025-10,44,Friday,5,0,Regular Season,Regular Trading,0,0,0,0
+20251101,2025-11-01,2025,Q4,11,November,2025-11,44,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251102,2025-11-02,2025,Q4,11,November,2025-11,44,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251103,2025-11-03,2025,Q4,11,November,2025-11,45,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251104,2025-11-04,2025,Q4,11,November,2025-11,45,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251105,2025-11-05,2025,Q4,11,November,2025-11,45,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251106,2025-11-06,2025,Q4,11,November,2025-11,45,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251107,2025-11-07,2025,Q4,11,November,2025-11,45,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251108,2025-11-08,2025,Q4,11,November,2025-11,45,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251109,2025-11-09,2025,Q4,11,November,2025-11,45,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251110,2025-11-10,2025,Q4,11,November,2025-11,46,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251111,2025-11-11,2025,Q4,11,November,2025-11,46,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251112,2025-11-12,2025,Q4,11,November,2025-11,46,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251113,2025-11-13,2025,Q4,11,November,2025-11,46,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251114,2025-11-14,2025,Q4,11,November,2025-11,46,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251115,2025-11-15,2025,Q4,11,November,2025-11,46,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251116,2025-11-16,2025,Q4,11,November,2025-11,46,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251117,2025-11-17,2025,Q4,11,November,2025-11,47,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251118,2025-11-18,2025,Q4,11,November,2025-11,47,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251119,2025-11-19,2025,Q4,11,November,2025-11,47,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251120,2025-11-20,2025,Q4,11,November,2025-11,47,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251121,2025-11-21,2025,Q4,11,November,2025-11,47,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251122,2025-11-22,2025,Q4,11,November,2025-11,47,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251123,2025-11-23,2025,Q4,11,November,2025-11,47,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251124,2025-11-24,2025,Q4,11,November,2025-11,48,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251125,2025-11-25,2025,Q4,11,November,2025-11,48,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251126,2025-11-26,2025,Q4,11,November,2025-11,48,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251127,2025-11-27,2025,Q4,11,November,2025-11,48,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251128,2025-11-28,2025,Q4,11,November,2025-11,48,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251129,2025-11-29,2025,Q4,11,November,2025-11,48,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251130,2025-11-30,2025,Q4,11,November,2025-11,48,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251201,2025-12-01,2025,Q4,12,December,2025-12,49,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251202,2025-12-02,2025,Q4,12,December,2025-12,49,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251203,2025-12-03,2025,Q4,12,December,2025-12,49,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251204,2025-12-04,2025,Q4,12,December,2025-12,49,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251205,2025-12-05,2025,Q4,12,December,2025-12,49,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251206,2025-12-06,2025,Q4,12,December,2025-12,49,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251207,2025-12-07,2025,Q4,12,December,2025-12,49,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251208,2025-12-08,2025,Q4,12,December,2025-12,50,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251209,2025-12-09,2025,Q4,12,December,2025-12,50,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251210,2025-12-10,2025,Q4,12,December,2025-12,50,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251211,2025-12-11,2025,Q4,12,December,2025-12,50,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251212,2025-12-12,2025,Q4,12,December,2025-12,50,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251213,2025-12-13,2025,Q4,12,December,2025-12,50,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251214,2025-12-14,2025,Q4,12,December,2025-12,50,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251215,2025-12-15,2025,Q4,12,December,2025-12,51,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251216,2025-12-16,2025,Q4,12,December,2025-12,51,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251217,2025-12-17,2025,Q4,12,December,2025-12,51,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251218,2025-12-18,2025,Q4,12,December,2025-12,51,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251219,2025-12-19,2025,Q4,12,December,2025-12,51,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251220,2025-12-20,2025,Q4,12,December,2025-12,51,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251221,2025-12-21,2025,Q4,12,December,2025-12,51,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251222,2025-12-22,2025,Q4,12,December,2025-12,52,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251223,2025-12-23,2025,Q4,12,December,2025-12,52,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251224,2025-12-24,2025,Q4,12,December,2025-12,52,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251225,2025-12-25,2025,Q4,12,December,2025-12,52,Thursday,4,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251226,2025-12-26,2025,Q4,12,December,2025-12,52,Friday,5,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251227,2025-12-27,2025,Q4,12,December,2025-12,52,Saturday,6,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251228,2025-12-28,2025,Q4,12,December,2025-12,52,Sunday,7,1,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251229,2025-12-29,2025,Q4,12,December,2025-12,1,Monday,1,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251230,2025-12-30,2025,Q4,12,December,2025-12,1,Tuesday,2,0,Holiday Peak,Holiday and Gifting,0,0,1,0
+20251231,2025-12-31,2025,Q4,12,December,2025-12,1,Wednesday,3,0,Holiday Peak,Holiday and Gifting,0,0,1,0

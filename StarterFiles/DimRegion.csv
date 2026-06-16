@@ -1,0 +1,9 @@
+RegionKey,MacroRegion,Country,MarketTier,CurrencyCode,PriceIndex,ConversionIndex,TopClub1,TopClub2,TopClub3
+1,EMEA,United Kingdom,Tier 1,GBP,1.0,1.05,Northbridge FC,Red Oak United,Harbor Athletic
+2,EMEA,Spain,Tier 1,EUR,0.98,1.03,Royal Montelena,Valle Dorado CF,Harbor Athletic
+3,EMEA,Germany,Tier 1,EUR,0.95,1.0,Nordstadt 04,Red Oak United,Northbridge FC
+4,Americas,United States,Tier 1,USD,1.1,0.95,Sunset Rovers,Royal Montelena,Harbor Athletic
+5,Americas,Brazil,Tier 1,BRL,0.92,0.98,Lago Azul SC,Sunset Rovers,Valle Dorado CF
+6,Americas,Mexico,Tier 2,MXN,0.88,0.92,Valle Dorado CF,Sunset Rovers,Royal Montelena
+7,APAC,Japan,Tier 1,JPY,1.05,1.1,Sakura Eleven,Harbor Athletic,Royal Montelena
+8,APAC,Australia,Tier 2,AUD,0.9,0.97,Harbor Athletic,Northbridge FC,Sakura Eleven

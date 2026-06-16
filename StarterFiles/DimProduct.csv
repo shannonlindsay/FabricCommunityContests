@@ -1,0 +1,101 @@
+ProductKey,SKU,ProductName,Category,Subcategory,TeamType,TeamName,StarPlayer,BrandLine,ReleaseSeason,LaunchDate,BasePrice,BaseCost,IsLimitedEdition
+1,KIT-0001,Northbridge FC Home Jersey,Kits,Club Kit,Club,Northbridge FC,Luca Vale,PitchSide Elite,Annual Kit Drop,2023-08-01,94,41.36,0
+2,KIT-0002,Northbridge FC Away Jersey,Kits,Club Kit,Club,Northbridge FC,Luca Vale,PitchSide Elite,Annual Kit Drop,2024-08-01,96,42.24,0
+3,KIT-0003,Northbridge FC Third Jersey,Kits,Club Kit,Club,Northbridge FC,Luca Vale,PitchSide Elite,Annual Kit Drop,2025-08-01,102,44.88,0
+4,KIT-0004,Royal Montelena Home Jersey,Kits,Club Kit,Club,Royal Montelena,Adriano Sol,PitchSide Elite,Annual Kit Drop,2021-08-01,94,41.36,0
+5,KIT-0005,Royal Montelena Away Jersey,Kits,Club Kit,Club,Royal Montelena,Adriano Sol,PitchSide Elite,Annual Kit Drop,2022-08-01,96,42.24,0
+6,KIT-0006,Royal Montelena Third Jersey,Kits,Club Kit,Club,Royal Montelena,Adriano Sol,PitchSide Elite,Annual Kit Drop,2023-08-01,102,44.88,0
+7,KIT-0007,Harbor Athletic Home Jersey,Kits,Club Kit,Club,Harbor Athletic,Milo Hart,PitchSide Elite,Annual Kit Drop,2024-08-01,94,41.36,0
+8,KIT-0008,Harbor Athletic Away Jersey,Kits,Club Kit,Club,Harbor Athletic,Milo Hart,PitchSide Elite,Annual Kit Drop,2025-08-01,96,42.24,0
+9,KIT-0009,Harbor Athletic Third Jersey,Kits,Club Kit,Club,Harbor Athletic,Milo Hart,PitchSide Elite,Annual Kit Drop,2021-08-01,102,44.88,0
+10,KIT-0010,Red Oak United Home Jersey,Kits,Club Kit,Club,Red Oak United,Owen Pryce,PitchSide Elite,Annual Kit Drop,2022-08-01,94,41.36,0
+11,KIT-0011,Red Oak United Away Jersey,Kits,Club Kit,Club,Red Oak United,Owen Pryce,PitchSide Elite,Annual Kit Drop,2023-08-01,96,42.24,0
+12,KIT-0012,Red Oak United Third Jersey,Kits,Club Kit,Club,Red Oak United,Owen Pryce,PitchSide Elite,Annual Kit Drop,2024-08-01,102,44.88,0
+13,KIT-0013,Sunset Rovers Home Jersey,Kits,Club Kit,Club,Sunset Rovers,Mateo Quinn,PitchSide Elite,Annual Kit Drop,2025-08-01,94,41.36,0
+14,KIT-0014,Sunset Rovers Away Jersey,Kits,Club Kit,Club,Sunset Rovers,Mateo Quinn,PitchSide Elite,Annual Kit Drop,2021-08-01,96,42.24,0
+15,KIT-0015,Sunset Rovers Third Jersey,Kits,Club Kit,Club,Sunset Rovers,Mateo Quinn,PitchSide Elite,Annual Kit Drop,2022-08-01,102,44.88,0
+16,KIT-0016,Valle Dorado CF Home Jersey,Kits,Club Kit,Club,Valle Dorado CF,Diego Maren,PitchSide Elite,Annual Kit Drop,2023-08-01,94,41.36,0
+17,KIT-0017,Valle Dorado CF Away Jersey,Kits,Club Kit,Club,Valle Dorado CF,Diego Maren,PitchSide Elite,Annual Kit Drop,2024-08-01,96,42.24,0
+18,KIT-0018,Valle Dorado CF Third Jersey,Kits,Club Kit,Club,Valle Dorado CF,Diego Maren,PitchSide Elite,Annual Kit Drop,2025-08-01,102,44.88,0
+19,KIT-0019,Nordstadt 04 Home Jersey,Kits,Club Kit,Club,Nordstadt 04,Felix Sturm,PitchSide Elite,Annual Kit Drop,2021-08-01,94,41.36,0
+20,KIT-0020,Nordstadt 04 Away Jersey,Kits,Club Kit,Club,Nordstadt 04,Felix Sturm,PitchSide Elite,Annual Kit Drop,2022-08-01,96,42.24,0
+21,KIT-0021,Nordstadt 04 Third Jersey,Kits,Club Kit,Club,Nordstadt 04,Felix Sturm,PitchSide Elite,Annual Kit Drop,2023-08-01,102,44.88,0
+22,KIT-0022,Lago Azul SC Home Jersey,Kits,Club Kit,Club,Lago Azul SC,Thiago Luz,PitchSide Elite,Annual Kit Drop,2024-08-01,94,41.36,0
+23,KIT-0023,Lago Azul SC Away Jersey,Kits,Club Kit,Club,Lago Azul SC,Thiago Luz,PitchSide Elite,Annual Kit Drop,2025-08-01,96,42.24,0
+24,KIT-0024,Lago Azul SC Third Jersey,Kits,Club Kit,Club,Lago Azul SC,Thiago Luz,PitchSide Elite,Annual Kit Drop,2021-08-01,102,44.88,0
+25,KIT-0025,Sakura Eleven Home Jersey,Kits,Club Kit,Club,Sakura Eleven,Ren Aoki,PitchSide Elite,Annual Kit Drop,2022-08-01,94,41.36,0
+26,KIT-0026,Sakura Eleven Away Jersey,Kits,Club Kit,Club,Sakura Eleven,Ren Aoki,PitchSide Elite,Annual Kit Drop,2023-08-01,96,42.24,0
+27,KIT-0027,Sakura Eleven Third Jersey,Kits,Club Kit,Club,Sakura Eleven,Ren Aoki,PitchSide Elite,Annual Kit Drop,2024-08-01,102,44.88,0
+28,KIT-0028,Ironcrest City Home Jersey,Kits,Club Kit,Club,Ironcrest City,Elian Cross,PitchSide Elite,Annual Kit Drop,2025-08-01,94,41.36,0
+29,KIT-0029,Ironcrest City Away Jersey,Kits,Club Kit,Club,Ironcrest City,Elian Cross,PitchSide Elite,Annual Kit Drop,2021-08-01,96,42.24,0
+30,KIT-0030,Ironcrest City Third Jersey,Kits,Club Kit,Club,Ironcrest City,Elian Cross,PitchSide Elite,Annual Kit Drop,2022-08-01,102,44.88,0
+31,NTK-0031,Albion National Team Home Jersey,Kits,National Team Kit,National,Albion,Theo Vale,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+32,NTK-0032,Albion National Team Away Jersey,Kits,National Team Kit,National,Albion,Theo Vale,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+33,NTK-0033,Costa Verde National Team Home Jersey,Kits,National Team Kit,National,Costa Verde,Nico Reyes,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+34,NTK-0034,Costa Verde National Team Away Jersey,Kits,National Team Kit,National,Costa Verde,Nico Reyes,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+35,NTK-0035,Nordland National Team Home Jersey,Kits,National Team Kit,National,Nordland,Erik Voss,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+36,NTK-0036,Nordland National Team Away Jersey,Kits,National Team Kit,National,Nordland,Erik Voss,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+37,NTK-0037,Solaria National Team Home Jersey,Kits,National Team Kit,National,Solaria,Marco Este,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+38,NTK-0038,Solaria National Team Away Jersey,Kits,National Team Kit,National,Solaria,Marco Este,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+39,NTK-0039,Andesia National Team Home Jersey,Kits,National Team Kit,National,Andesia,Santi Cruz,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+40,NTK-0040,Andesia National Team Away Jersey,Kits,National Team Kit,National,Andesia,Santi Cruz,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+41,NTK-0041,Sakura National Team Home Jersey,Kits,National Team Kit,National,Sakura,Kai Morita,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+42,NTK-0042,Sakura National Team Away Jersey,Kits,National Team Kit,National,Sakura,Kai Morita,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+43,NTK-0043,Aurora National Team Home Jersey,Kits,National Team Kit,National,Aurora,Leo Winter,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+44,NTK-0044,Aurora National Team Away Jersey,Kits,National Team Kit,National,Aurora,Leo Winter,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+45,NTK-0045,Mar Azul National Team Home Jersey,Kits,National Team Kit,National,Mar Azul,Rafa Costa,PitchSide Elite,Tournament Cycle,2022-05-15,99,42.57,0
+46,NTK-0046,Mar Azul National Team Away Jersey,Kits,National Team Kit,National,Mar Azul,Rafa Costa,PitchSide Elite,Tournament Cycle,2024-05-15,101,43.43,0
+47,BTS-0047,AeroStrike Pro FG,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2023-03-01,165,79.2,0
+48,BTS-0048,AeroStrike Elite SG,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2024-04-01,178,85.44,0
+49,BTS-0049,PulseControl Speed,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2025-05-01,149,71.52,0
+50,BTS-0050,PulseControl+,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2021-06-01,159,76.32,0
+51,BTS-0051,StormTouch Academy,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2022-07-01,118,56.64,0
+52,BTS-0052,StormTouch Pro,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2023-08-01,132,63.36,0
+53,BTS-0053,Velocity 11 Elite,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2024-09-01,185,88.8,0
+54,BTS-0054,Velocity 11 Team,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2025-01-01,142,68.16,0
+55,BTS-0055,FutureCraft Turf,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2021-02-01,125,60.0,0
+56,BTS-0056,FutureCraft Indoor,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2022-03-01,112,53.76,0
+57,BTS-0057,StrikerFlow Carbon,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2023-04-01,192,92.16,0
+58,BTS-0058,StrikerFlow Match,Footwear,Boots,None,No Team,,AeroKick,Performance Drop,2024-05-01,154,73.92,0
+59,TRN-0059,Training Cone Set,Training Equipment,Training,None,No Team,,PitchLab,All Year,2025-10-01,22,11.0,0
+60,TRN-0060,Agility Ladder,Training Equipment,Training,None,No Team,,PitchLab,All Year,2021-01-01,34,17.0,0
+61,TRN-0061,Speed Hurdles,Training Equipment,Training,None,No Team,,PitchLab,All Year,2022-02-01,46,23.0,0
+62,TRN-0062,Resistance Bands,Training Equipment,Training,None,No Team,,PitchLab,All Year,2023-03-01,28,14.0,0
+63,TRN-0063,Recovery Roller,Training Equipment,Training,None,No Team,,PitchLab,All Year,2024-04-01,31,15.5,0
+64,TRN-0064,Ball Rebound Net,Training Equipment,Training,None,No Team,,PitchLab,All Year,2025-05-01,79,39.5,0
+65,TRN-0065,Coach Clipboard,Training Equipment,Training,None,No Team,,PitchLab,All Year,2021-06-01,18,9.0,0
+66,TRN-0066,Training Bib Pack,Training Equipment,Training,None,No Team,,PitchLab,All Year,2022-07-01,39,19.5,0
+67,TRN-0067,Pro Match Ball,Training Equipment,Training,None,No Team,,PitchLab,All Year,2023-08-01,74,37.0,0
+68,TRN-0068,Everyday Training Ball,Training Equipment,Training,None,No Team,,PitchLab,All Year,2024-09-01,29,14.5,0
+69,TRN-0069,Mini Goal Set,Training Equipment,Training,None,No Team,,PitchLab,All Year,2025-10-01,95,47.5,0
+70,TRN-0070,Pump and Needle Kit,Training Equipment,Training,None,No Team,,PitchLab,All Year,2021-01-01,14,7.0,0
+71,ACC-0071,Club Scarf,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2022-06-01,26,11.96,0
+72,ACC-0072,Matchday Cap,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2023-07-01,28,12.88,0
+73,ACC-0073,Stadium Water Bottle,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2024-08-01,21,9.66,0
+74,ACC-0074,Supporter Flag,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2025-09-01,24,11.04,0
+75,ACC-0075,Captain Armband,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2021-10-01,19,8.74,0
+76,ACC-0076,Boot Bag,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2022-11-01,35,16.1,0
+77,ACC-0077,Gym Sack,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2023-01-01,23,10.58,1
+78,ACC-0078,Sticker Pack,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2024-02-01,12,5.52,0
+79,ACC-0079,Phone Grip,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2025-03-01,16,7.36,0
+80,ACC-0080,Travel Mug,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2021-04-01,20,9.2,0
+81,ACC-0081,Beanie,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2022-05-01,27,12.42,0
+82,ACC-0082,Pint Glass Set,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2023-06-01,29,13.34,0
+83,ACC-0083,Keyring Bundle,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2024-07-01,11,5.06,0
+84,ACC-0084,Laptop Sleeve,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2025-08-01,33,15.18,0
+85,ACC-0085,Fan Drumsticks,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2021-09-01,17,7.82,0
+86,ACC-0086,Matchday Towel,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2022-10-01,18,8.28,1
+87,ACC-0087,Desk Pennant,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2023-11-01,15,6.9,0
+88,ACC-0088,Poster Tube Pack,Accessories,Fan Accessory,None,No Team,,Matchday,Holiday and Event,2024-01-01,14,6.44,0
+89,COL-0089,Player Pin Set,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2025-06-01,18,7.56,0
+90,COL-0090,Ticket Stub Frame,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2021-07-01,32,13.44,0
+91,COL-0091,Stadium Blueprint Print,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2022-08-01,45,18.9,1
+92,COL-0092,Captain Figurine,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2023-09-01,58,24.36,1
+93,COL-0093,Mascot Plush,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2024-10-01,24,10.08,0
+94,COL-0094,Retro Program Book,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2025-11-01,37,15.54,0
+95,COL-0095,Mini Trophy Replica,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2021-12-01,69,28.98,1
+96,COL-0096,Signed Photo Pack,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2022-01-01,41,17.22,0
+97,COL-0097,Legacy Patch Set,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2023-02-01,27,11.34,0
+98,COL-0098,Collector Coin,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2024-03-01,34,14.28,0
+99,COL-0099,Matchday Snow Globe,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2025-04-01,39,16.38,0
+100,COL-0100,Champions Box,Collectibles,Collectible,None,No Team,,Vault Series,Collector Drops,2021-05-01,88,36.96,1
